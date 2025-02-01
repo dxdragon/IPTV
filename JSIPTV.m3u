@@ -50,7 +50,7 @@ http://ott.mobaibox.com/PLTV/3/224/3221228665/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221228668/index.m3u8
 #EXTINF:-1 tvg-name="高尔夫网球" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/dxdragon/IPTV/main/logo/高尔夫网球.png" group-title="央视频道",CCTV-高尔夫·网球
 http://ott.mobaibox.com/PLTV/3/224/3221228138/index.m3u8
-#EXTINF:-1 tvg-name="世界地理" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/dxdragon/IPTV/main/logo/世界地理.png" group-title="央视频道",CCTV-17 农业农村
+#EXTINF:-1 tvg-name="世界地理" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/dxdragon/IPTV/main/logo/世界地理.png" group-title="央视频道",CCTV-世界地理
 http://ott.mobaibox.com/PLTV/3/224/3221228680/index.m3u8
 #EXTINF:-1 tvg-name="央视台球" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/dxdragon/IPTV/main/logo/央视台球.png" group-title="央视频道",CCTV-央视台球
 http://ott.mobaibox.com/PLTV/3/224/3221228683/index.m3u8
@@ -122,47 +122,47 @@ http://ott.mobaibox.com/PLTV/3/224/3221228626/index.m3u8
 #EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/dxdragon/IPTV/main/logo/黑龙江卫视.png" group-title="卫视频道",黑龙江卫视
 http://ott.mobaibox.com/PLTV/3/224/3221227514/index.m3u8
 #NewTV
-#EXTINF:-1 tvg-name="NewTV爱情喜剧" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/dxdragon/IPTV/main/logo/newtv爱情喜剧.png" group-title="NewTV",NewTV-爱情喜剧
+#EXTINF:-1 tvg-name="NewTV爱情喜剧" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/dxdragon/IPTV/main/logo/NewTV爱情喜剧.png" group-title="NewTV",NewTV-爱情喜剧
 http://ott.mobaibox.com/PLTV/3/224/3221227548/index.m3u8
-#EXTINF:-1 tvg-name="NewTV潮妈辣婆" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/dxdragon/IPTV/main/logo/newtv潮妈辣婆.png" group-title="NewTV",NewTV-潮妈辣婆
+#EXTINF:-1 tvg-name="NewTV潮妈辣婆" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/dxdragon/IPTV/main/logo/NewTV潮妈辣婆.png" group-title="NewTV",NewTV-潮妈辣婆
 http://ott.mobaibox.com/PLTV/3/224/3221227527/index.m3u8
-#EXTINF:-1 tvg-name="NewTV动作电影" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/dxdragon/IPTV/main/logo/newtv动作电影.png" group-title="NewTV",NewTV-动作电影
+#EXTINF:-1 tvg-name="NewTV动作电影" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/dxdragon/IPTV/main/logo/NewTV动作电影.png" group-title="NewTV",NewTV-动作电影
 http://ott.mobaibox.com/PLTV/3/224/3221227606/index.m3u8
-#EXTINF:-1 tvg-name="NewTV古装剧场" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/dxdragon/IPTV/main/logo/newtv古装剧场.png" group-title="NewTV",NewTV-古装剧场
+#EXTINF:-1 tvg-name="NewTV古装剧场" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/dxdragon/IPTV/main/logo/NewTV古装剧场.png" group-title="NewTV",NewTV-古装剧场
 http://ott.mobaibox.com/PLTV/3/224/3221227542/index.m3u8
-#EXTINF:-1 tvg-name="NewTV海外剧场" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/dxdragon/IPTV/main/logo/newtv海外剧场.png" group-title="NewTV",NewTV-海外剧场
+#EXTINF:-1 tvg-name="NewTV海外剧场" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/dxdragon/IPTV/main/logo/NewTV海外剧场.png" group-title="NewTV",NewTV-海外剧场
 http://ott.mobaibox.com/PLTV/3/224/3221227539/index.m3u8
-#EXTINF:-1 tvg-name="NewTV家庭剧场" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/dxdragon/IPTV/main/logo/newtv家庭剧场.png" group-title="NewTV",NewTV-家庭剧场
+#EXTINF:-1 tvg-name="NewTV家庭剧场" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/dxdragon/IPTV/main/logo/NewTV家庭剧场.png" group-title="NewTV",NewTV-家庭剧场
 http://ott.mobaibox.com/PLTV/3/224/3221227600/index.m3u8
-#EXTINF:-1 tvg-name="NewTV金牌综艺" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/dxdragon/IPTV/main/logo/newtv金牌综艺.png" group-title="NewTV",NewTV-金牌综艺
+#EXTINF:-1 tvg-name="NewTV金牌综艺" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/dxdragon/IPTV/main/logo/NewTV金牌综艺.png" group-title="NewTV",NewTV-金牌综艺
 http://ott.mobaibox.com/PLTV/3/224/3221227541/index.m3u8
-#EXTINF:-1 tvg-name="NewTV惊悚悬疑" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/dxdragon/IPTV/main/logo/newtv惊悚悬疑.png" group-title="NewTV",NewTV-惊悚悬疑
+#EXTINF:-1 tvg-name="NewTV惊悚悬疑" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/dxdragon/IPTV/main/logo/NewTV惊悚悬疑.png" group-title="NewTV",NewTV-惊悚悬疑
 http://ott.mobaibox.com/PLTV/3/224/3221227536/index.m3u8
-#EXTINF:-1 tvg-name="NewTV精品纪录" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/dxdragon/IPTV/main/logo/newtv精品纪录.png" group-title="NewTV",NewTV-精品纪录
+#EXTINF:-1 tvg-name="NewTV精品纪录" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/dxdragon/IPTV/main/logo/NewTV精品纪录.png" group-title="NewTV",NewTV-精品纪录
 http://ott.mobaibox.com/PLTV/3/224/3221227547/index.m3u8
-#EXTINF:-1 tvg-name="NewTV精品大剧" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/dxdragon/IPTV/main/logo/newtv精品大剧.png" group-title="NewTV",NewTV-精品大剧
+#EXTINF:-1 tvg-name="NewTV精品大剧" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/dxdragon/IPTV/main/logo/NewTV精品大剧.png" group-title="NewTV",NewTV-精品大剧
 http://ott.mobaibox.com/PLTV/3/224/3221227618/index.m3u8
-#EXTINF:-1 tvg-name="NewTV精品萌宠" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/dxdragon/IPTV/main/logo/newtv精品萌宠.png" group-title="NewTV",NewTV-精品萌宠
+#EXTINF:-1 tvg-name="NewTV精品萌宠" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/dxdragon/IPTV/main/logo/NewTV精品萌宠.png" group-title="NewTV",NewTV-精品萌宠
 http://ott.mobaibox.com/PLTV/3/224/3221228430/index.m3u8
-#EXTINF:-1 tvg-name="NewTV精品体育" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/dxdragon/IPTV/main/logo/newtv精品体育.png" group-title="NewTV",NewTV-精品体育
+#EXTINF:-1 tvg-name="NewTV精品体育" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/dxdragon/IPTV/main/logo/NewTV精品体育.png" group-title="NewTV",NewTV-精品体育
 http://ott.mobaibox.com/PLTV/3/224/3221227615/index.m3u8
-#EXTINF:-1 tvg-name="NewTV军旅剧场" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/dxdragon/IPTV/main/logo/newtv军旅剧场.png" group-title="NewTV",NewTV-军旅剧场
+#EXTINF:-1 tvg-name="NewTV军旅剧场" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/dxdragon/IPTV/main/logo/NewTV军旅剧场.png" group-title="NewTV",NewTV-军旅剧场
 http://ott.mobaibox.com/PLTV/3/224/3221227603/index.m3u8
-#EXTINF:-1 tvg-name="NewTV军事评论" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/dxdragon/IPTV/main/logo/newtv军事评论.png" group-title="NewTV",NewTV-军事评论
+#EXTINF:-1 tvg-name="NewTV军事评论" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/dxdragon/IPTV/main/logo/NewTV军事评论.png" group-title="NewTV",NewTV-军事评论
 http://ott.mobaibox.com/PLTV/3/224/3221227544/index.m3u8
-#EXTINF:-1 tvg-name="NewTV明星大片" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/dxdragon/IPTV/main/logo/newtv明星大片.png" group-title="NewTV",NewTV-明星大片
+#EXTINF:-1 tvg-name="NewTV明星大片" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/dxdragon/IPTV/main/logo/NewTV明星大片.png" group-title="NewTV",NewTV-明星大片
 http://ott.mobaibox.com/PLTV/3/224/3221227594/index.m3u8
-#EXTINF:-1 tvg-name="NewTV热播精选" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/dxdragon/IPTV/main/logo/newtv热播精选.png" group-title="NewTV",NewTV-热播精选
+#EXTINF:-1 tvg-name="NewTV热播精选" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/dxdragon/IPTV/main/logo/NewTV热播精选.png" group-title="NewTV",NewTV-热播精选
 http://ott.mobaibox.com/PLTV/3/224/3221227512/index.m3u8
-#EXTINF:-1 tvg-name="NewTV武搏世界" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/dxdragon/IPTV/main/logo/newtv武搏世界.png" group-title="NewTV",NewTV-武搏世界
+#EXTINF:-1 tvg-name="NewTV武搏世界" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/dxdragon/IPTV/main/logo/NewTV武搏世界.png" group-title="NewTV",NewTV-武搏世界
 http://ott.mobaibox.com/PLTV/3/224/3221227533/index.m3u8
-#EXTINF:-1 tvg-name="NewTV中国功夫" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/dxdragon/IPTV/main/logo/newtv中国功夫.png" group-title="NewTV",NewTV-中国功夫
+#EXTINF:-1 tvg-name="NewTV中国功夫" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/dxdragon/IPTV/main/logo/NewTV中国功夫.png" group-title="NewTV",NewTV-中国功夫
 http://ott.mobaibox.com/PLTV/3/224/3221227530/index.m3u8
-#EXTINF:-1,tvg-name="NewTV炫舞未来" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/dxdragon/IPTV/main/logo/newtv炫舞未来.png" group-title="NewTV",NewTV-炫舞未来 
+#EXTINF:-1,tvg-name="NewTV炫舞未来" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/dxdragon/IPTV/main/logo/NewTV炫舞未来.png" group-title="NewTV",NewTV-炫舞未来 
 http://ott.mobaibox.com/PLTV/3/224/3221227475/index.m3u8
-#EXTINF:-1,tvg-name="NewTV农业致富" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/dxdragon/IPTV/main/logo/newtv农业致富.png" group-title="NewTV",NewTV-农业致富 
+#EXTINF:-1,tvg-name="NewTV农业致富" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/dxdragon/IPTV/main/logo/NewTV农业致富.png" group-title="NewTV",NewTV-农业致富 
 http://ott.mobaibox.com/PLTV/3/224/3221227588/index.m3u8
-#EXTINF:-1,tvg-name="NewTV怡伴健康" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/dxdragon/IPTV/main/logo/newtv怡伴健康.png" group-title="NewTV",NewTV-怡伴健康 
+#EXTINF:-1,tvg-name="NewTV怡伴健康" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/dxdragon/IPTV/main/logo/NewTV怡伴健康.png" group-title="NewTV",NewTV-怡伴健康 
 http://ott.mobaibox.com/PLTV/3/224/3221227612/index.m3u8
 #数字频道
 #EXTINF:-1 tvg-name="纯享4K" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/dxdragon/IPTV/main/logo/纯享4K.png" group-title="数字频道",纯享4K

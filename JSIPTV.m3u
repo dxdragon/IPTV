@@ -164,6 +164,19 @@ http://ott.mobaibox.com/PLTV/3/224/3221227475/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221227588/index.m3u8
 #EXTINF:-1,tvg-name="NewTV怡伴健康" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/dxdragon/IPTV/main/logo/NewTV怡伴健康.png" group-title="NewTV",NewTV-怡伴健康 
 http://ott.mobaibox.com/PLTV/3/224/3221227612/index.m3u8
+#咪咕频道
+#EXTINF:-1 tvg-name="咪咕音乐" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/dxdragon/IPTV/main/logo/咪咕音乐.png" group-title="咪咕频道",咪咕音乐
+http://ott.mobaibox.com/PLTV/3/224/3221228444/index.m3u8
+#EXTINF:-1 tvg-name="咪咕视频" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/dxdragon/IPTV/main/logo/咪咕视频.png" group-title="咪咕频道",咪咕视频
+http://ott.mobaibox.com/PLTV/3/224/3221228193/index.m3u8
+#EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/dxdragon/IPTV/main/logo/睛彩篮球.png" group-title="咪咕频道",睛彩篮球
+http://ott.mobaibox.com/PLTV/3/224/3221228234/index.m3u8
+#EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/dxdragon/IPTV/main/logo/睛彩竞技.png" group-title="咪咕频道",睛彩竞技
+http://ott.mobaibox.com/PLTV/3/224/3221228206/index.m3u8
+#EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/dxdragon/IPTV/main/logo/睛彩青少.png" group-title="咪咕频道",睛彩青少
+http://ott.mobaibox.com/PLTV/3/224/3221228427/index.m3u8
+#EXTINF:-1 tvg-name="睛彩广场舞" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/dxdragon/IPTV/main/logo/睛彩广场舞.png" group-title="咪咕频道",睛彩广场舞
+http://ott.mobaibox.com/PLTV/3/224/3221228231/index.m3u8
 #数字频道
 #EXTINF:-1 tvg-name="纯享4K" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/dxdragon/IPTV/main/logo/纯享4K.png" group-title="数字频道",纯享4K
 http://ott.mobaibox.com/PLTV/3/224/3221227506/index.m3u8
@@ -184,3 +197,5 @@ http://ott.mobaibox.com/PLTV/3/224/3221225555/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221228530/index.m3u8
 #EXTINF:-1 tvg-name="中文台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/dxdragon/IPTV/main/logo/凤凰卫视中文台.png" group-title="港澳频道",凤凰卫视中文台
 http://ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
+#EXTINF:-1 tvg-name="资讯台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/dxdragon/IPTV/main/logo/凤凰卫视资讯台.png" group-title="港澳频道",凤凰卫视资讯台
+http://ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8

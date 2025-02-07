@@ -177,7 +177,7 @@ http://ott.mobaibox.com/PLTV/3/224/3221227475/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221227588/index.m3u8
 #EXTINF:-1,tvg-name="NewTV怡伴健康" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/dxdragon/IPTV/main/logo/NewTV怡伴健康.png" group-title="NewTV",NewTV-怡伴健康 
 http://ott.mobaibox.com/PLTV/3/224/3221227612/index.m3u8
-#EXTINF:-1 tvg-name="哒啵赛事" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/dxdragon/IPTV/main/logo/NewTV哒啵赛事.png" group-title="数字频道",哒啵赛事
+#EXTINF:-1 tvg-name="哒啵赛事" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/dxdragon/IPTV/main/logo/NewTV哒啵赛事.png" group-title="NewTV",哒啵赛事
 http://ott.mobaibox.com/PLTV/4/224/3221225539/index.m3u8
 #咪咕频道
 #EXTINF:-1 tvg-name="咪咕音乐" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/dxdragon/IPTV/main/logo/咪咕音乐.png" group-title="咪咕频道",咪咕音乐

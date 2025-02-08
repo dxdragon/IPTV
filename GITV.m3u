@@ -42,12 +42,16 @@ http://223.110.241.204:6610/gitv/live1/G_DIYIJC-CQ/G_DIYIJC-CQ/
 http://223.110.241.204:6610/gitv/live1/G_FENGYUNJC-CQ/G_FENGYUNJC-CQ/
 #EXTINF:-1 tvg-name="风云音乐" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/dxdragon/IPTV/main/logo/风云音乐.png" group-title="央视频道",CCTV-风云音乐
 http://223.110.241.204:6610/gitv/live1/G_FENGYUNYY-CQ/G_FENGYUNYY-CQ/
+#EXTINF:-1 tvg-name="风云足球" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/dxdragon/IPTV/main/logo/风云足球.png" group-title="央视频道",CCTV-风云足球
+http://223.110.241.204:6610/gitv/live1/G_FENGSHANGZQ-CQ/G_FENGSHANGZQ-CQ/
 #EXTINF:-1 tvg-name="高尔夫网球" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/dxdragon/IPTV/main/logo/高尔夫网球.png" group-title="央视频道",CCTV-高尔夫·网球
 http://223.110.241.204:6610/gitv/live1/G_CCTV-GOLF-CQ/G_CCTV-GOLF-CQ/
 #EXTINF:-1 tvg-name="世界地理" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/dxdragon/IPTV/main/logo/世界地理.png" group-title="央视频道",CCTV-世界地理
 http://223.110.241.204:6610/gitv/live1/G_SHIJIEDL-CQ/G_SHIJIEDL-CQ/
 #EXTINF:-1 tvg-name="央视台球" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/dxdragon/IPTV/main/logo/央视台球.png" group-title="央视频道",CCTV-央视台球
 http://223.110.241.204:6610/gitv/live1/G_TAIQIU-CQ/G_TAIQIU-CQ/
+#EXTINF:-1 tvg-name="央视文化精品" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/dxdragon/IPTV/main/logo/央视文化精品.png" group-title="央视频道",CCTV-央视文化精品
+http://223.110.241.204:6610/gitv/live1/G_CCTV-WENHUA-CQ/G_CCTV-WENHUA-CQ/
 #EXTINF:-1 tvg-name="兵器科技" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/dxdragon/IPTV/main/logo/兵器科技.png" group-title="央视频道",CCTV-兵器科技
 http://223.110.241.204:6610/gitv/live1/G_BINGQIKJ-CQ/G_BINGQIKJ-CQ/
 #EXTINF:-1 tvg-name="电视指南" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/dxdragon/IPTV/main/logo/电视指南.png" group-title="央视频道",CCTV-电视指南

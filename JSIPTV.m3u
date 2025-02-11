@@ -64,6 +64,8 @@ http://ott.mobaibox.com/PLTV/3/224/3221228677/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221228686/index.m3u8
 #EXTINF:-1 tvg-name="电视指南" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/dxdragon/IPTV/main/logo/电视指南.png" group-title="央视频道",CCTV-电视指南
 http://ott.mobaibox.com/PLTV/3/224/3221228689/index.m3u8
+#EXTINF:-1 tvg-name="CGTN纪录" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/dxdragon/IPTV/main/logo/CGTN纪录.png" group-title="央视频道",CGTN-纪录
+https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8
 #EXTINF:-1 tvg-name="早期教育" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/dxdragon/IPTV/main/logo/早期教育.png" group-title="央视频道",CETV-早期教育
 http://ott.mobaibox.com/PLTV/3/224/3221228692/index.m3u8
 #卫视频道
@@ -268,3 +270,5 @@ http://php.jdshipin.com/TVOD/iptv.php?id=meiya
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 tvg-name="半岛新闻" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/dxdragon/IPTV/main/logo/半岛新闻.png" group-title="港澳频道",半岛新闻
 http://live-hls-web-aje.getaj.net/AJE/01.m3u8
+#EXTINF:-1 tvg-name="美国之音" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/dxdragon/IPTV/main/logo/VOA.png" group-title="港澳频道",美国之音
+https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlist.m3u8

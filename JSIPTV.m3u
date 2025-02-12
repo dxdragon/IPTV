@@ -68,6 +68,11 @@ http://ott.mobaibox.com/PLTV/3/224/3221228689/index.m3u8
 https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8
 #EXTINF:-1 tvg-name="早期教育" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/dxdragon/IPTV/main/logo/早期教育.png" group-title="央视频道",CETV-早期教育
 http://ott.mobaibox.com/PLTV/3/224/3221228692/index.m3u8
+#EXTINF:-1 tvg-name="CETV1" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/dxdragon/IPTV/main/logo/CETV1.png" group-title="央视频道",CETV-1
+http://111.29.9.34:6410/000000001001/5000000002000002652/index.m3u8?channel-id=bestzb&Contentid=5000000002000002652&livemode=1&stbId=m
+#EXTINF:-1 tvg-name="CETV4" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/dxdragon/IPTV/main/logo/CETV4.png" group-title="央视频道",CETV-4
+http://111.29.9.34:6410/000000001001/5000000011000031126/index.m3u8?channel-id=bestzb&Contentid=5000000011000031126&livemode=1&stbId=m
+
 #卫视频道
 #EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/dxdragon/IPTV/main/logo/东南卫视.png" group-title="卫视频道",东南卫视
 http://ott.mobaibox.com/PLTV/3/224/3221227670/index.m3u8
@@ -127,6 +132,7 @@ http://ott.mobaibox.com/PLTV/3/224/3221227554/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221228626/index.m3u8
 #EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/dxdragon/IPTV/main/logo/黑龙江卫视.png" group-title="卫视频道",黑龙江卫视
 http://ott.mobaibox.com/PLTV/3/224/3221227514/index.m3u8
+
 #江苏地方
 #EXTINF:-1 tvg-name="江苏影视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/dxdragon/IPTV/main/logo/江苏影视.png" group-title="江苏地方",江苏影视
 http://ott.mobaibox.com/PLTV/3/224/3221228728/index.m3u8
@@ -152,6 +158,67 @@ http://ott.mobaibox.com/PLTV/3/224/3221227722/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221227213/index.m3u8
 #EXTINF:-1 tvg-name="南京十八生活" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/dxdragon/IPTV/main/logo/南京十八生活.png" group-title="江苏地方",南京十八•生活
 http://ott.mobaibox.com/PLTV/4/224/3221227178/index.m3u8
+
+#上海地方
+#EXTINF:-1 tvg-name="动漫秀场" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/dxdragon/IPTV/main/logo/动漫秀场.png" group-title="上海地方",动漫秀场
+http://111.29.9.34:6410/000000001001/5000000011000031113/index.m3u8?channel-id=bestzb&Contentid=5000000011000031113&livemode=1&stbId=m
+#EXTINF:-1 tvg-name="游戏风云" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/dxdragon/IPTV/main/logo/游戏风云.png" group-title="上海地方",游戏风云
+http://111.29.9.34:6410/000000001001/5000000011000031114/index.m3u8?channel-id=bestzb&Contentid=5000000011000031114&livemode=1&stbId=m
+#EXTINF:-1 tvg-name="法治天地" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/dxdragon/IPTV/main/logo/法治天地.png" group-title="上海地方",法治天地
+http://111.29.9.34:6410/000000001001/9001547084732463424/index.m3u8?channel-id=bestzb&Contentid=9001547084732463424&livemode=1&stbId=m
+#EXTINF:-1 tvg-name="劲爆体育" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/dxdragon/IPTV/main/logo/劲爆体育.png" group-title="上海地方",劲爆体育
+http://111.29.9.34:6410/000000001001/5000000002000029972/index.m3u8?channel-id=bestzb&Contentid=5000000002000029972&livemode=1&stbId=m
+#EXTINF:-1 tvg-name="魅力足球" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/dxdragon/IPTV/main/logo/魅力足球.png" group-title="上海地方",魅力足球
+http://111.29.9.34:6410/000000001001/5000000011000031207/index.m3u8?channel-id=bestzb&Contentid=5000000011000031207&livemode=1&stbId=m
+#EXTINF:-1 tvg-name="金色学堂" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/dxdragon/IPTV/main/logo/金色学堂.png" group-title="上海地方",金色学堂
+http://111.29.9.34:6410/000000001001/5000000010000026105/index.m3u8?channel-id=bestzb&Contentid=5000000010000026105&livemode=1&stbId=m
+#EXTINF:-1 tvg-name="欢笑剧场" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/dxdragon/IPTV/main/logo/欢笑剧场4K.png" group-title="上海地方",欢笑剧场4K
+http://111.29.9.34:6410/000000001001/5000000007000010001/index.m3u8?channel-id=bestzb&Contentid=5000000007000010001&livemode=1&stbId=m
+#EXTINF:-1 tvg-name="生活时尚" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/dxdragon/IPTV/main/logo/生活时尚.png" group-title="上海地方",生活时尚
+http://111.29.9.34:6410/000000001001/5000000002000019634/index.m3u8?channel-id=bestzb&Contentid=5000000002000019634&livemode=1&stbId=m
+#EXTINF:-1 tvg-name="乐游" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/dxdragon/IPTV/main/logo/乐游.png" group-title="上海地方",乐游
+http://111.29.9.34:6410/000000001001/5000000011000031112/index.m3u8?channel-id=bestzb&Contentid=5000000011000031112&livemode=1&stbId=m
+#EXTINF:-1 tvg-name="都市剧场" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/dxdragon/IPTV/main/logo/都市剧场.png" group-title="上海地方",都市剧场
+http://111.29.9.34:6410/000000001001/5000000011000031111/index.m3u8?channel-id=bestzb&Contentid=5000000011000031111&livemode=1&stbId=m
+#EXTINF:-1 tvg-name="东方财经" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/dxdragon/IPTV/main/logo/东方财经.png" group-title="上海地方",东方财经
+http://111.29.9.34:6410/000000001001/5000000007000010003/index.m3u8?channel-id=bestzb&Contentid=5000000007000010003&livemode=1&stbId=m
+#EXTINF:-1 tvg-name="第一财经" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/dxdragon/IPTV/main/logo/第一财经.png" group-title="上海地方",第一财经
+http://111.29.9.34:6410/000000001001/5000000010000027146/index.m3u8?channel-id=bestzb&Contentid=5000000010000027146&livemode=1&stbId=m
+#EXTINF:-1 tvg-name="东方影视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/dxdragon/IPTV/main/logo/东方影视.png" group-title="上海地方",东方影视
+http://111.29.9.34:6410/000000001001/5000000010000032212/index.m3u8?channel-id=bestzb&Contentid=5000000010000032212&livemode=1&stbId=m
+#EXTINF:-1 tvg-name="上海都市" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/dxdragon/IPTV/main/logo/上海都市.png" group-title="上海地方",上海都市
+http://111.29.9.34:6410/000000001001/5000000010000018926/index.m3u8?channel-id=bestzb&Contentid=5000000010000018926&livemode=1&stbId=m
+#EXTINF:-1 tvg-name="五星体育" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/dxdragon/IPTV/main/logo/五星体育.png" group-title="上海地方",五星体育
+http://111.29.9.34:6410/000000001001/5000000010000017540/index.m3u8?channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=m
+#EXTINF:-1 tvg-name="上海新闻综合" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/dxdragon/IPTV/main/logo/上海新闻综合.png" group-title="上海地方",上海新闻综合
+http://111.29.9.34:6410/000000001001/5000000011000031110/index.m3u8?channel-id=bestzb&Contentid=5000000011000031110&livemode=1&stbId=m
+
+#浙江地方
+#EXTINF:-1 tvg-name="浙江新闻" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/dxdragon/IPTV/main/logo/浙江新闻.png" group-title="浙江地方",浙江新闻
+http://zhfivel02.cztv.com/channel07/1080p.m3u8?auth_key=2524708799-0-0-4af48ba83e791a300595dd0b2bb30e6e
+#EXTINF:-1 tvg-name="浙江少儿" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/dxdragon/IPTV/main/logo/浙江少儿.png" group-title="浙江地方",浙江少儿
+http://zhfivel02.cztv.com/channel08/1080p.m3u8?auth_key=2524708799-0-0-cf6f7ad5658d8f2fe423ac2b0d502083
+#EXTINF:-1 tvg-name="浙江国际" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/dxdragon/IPTV/main/logo/浙江国际.png" group-title="浙江地方",浙江国际
+http://zhfivel02.cztv.com/channel10/1080p.m3u8?auth_key=2524708799-0-0-646cad31c1d94b002a325cd75475d30f
+#EXTINF:-1 tvg-name="浙江经济生活" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/dxdragon/IPTV/main/logo/浙江经济生活.png" group-title="浙江地方",浙江经济生活
+http://zhfivel02.cztv.com/channel03/1080p.m3u8?auth_key=2524708799-0-0-76c0751e0f656453baf39803124fc08a
+#EXTINF:-1 tvg-name="浙江教科影视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/dxdragon/IPTV/main/logo/浙江教科影视.png" group-title="浙江地方",浙江教科影视
+http://zhfivel02.cztv.com/channel04/1080p.m3u8?auth_key=2524708799-0-0-514823d0816d4af94a9f32bd7614ed67
+#EXTINF:-1 tvg-name="浙江民生休闲" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/dxdragon/IPTV/main/logo/浙江民生休闲.png" group-title="浙江地方",浙江民生休闲
+http://zhfivel02.cztv.com/channel06/1080p.m3u8?auth_key=2524708799-0-0-59c4fe94512c59a90316fbf17ae2fbef
+#EXTINF:-1 tvg-name="浙江钱江都市" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/dxdragon/IPTV/main/logo/浙江钱江都市.png" group-title="浙江地方",浙江钱江都市
+http://zhfivel02.cztv.com/channel02/1080p.m3u8?auth_key=2524708799-0-0-2f7bb420bfd1d218b9c7b07c0ac1ba2f
+#EXTINF:-1 tvg-name="之江纪录" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/dxdragon/IPTV/main/logo/之江纪录.png" group-title="浙江地方",浙江之江纪录
+http://zhfivel02.cztv.com/channel12/1080p.m3u8?auth_key=2524708799-0-0-19b0d66dea45971ba0087cbe8392e2d4
+
+#湖南地方
+#EXTINF:-1 tvg-name="金鹰纪实" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/dxdragon/IPTV/main/logo/金鹰纪实.png" group-title="湖南地方",金鹰纪实
+http://111.29.9.34:6410/000000001001/5000000011000031203/index.m3u8?channel-id=bestzb&Contentid=5000000011000031203&livemode=1&stbId=m
+#EXTINF:-1 tvg-name="快乐垂钓" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/dxdragon/IPTV/main/logo/快乐垂钓.png" group-title="湖南地方",快乐垂钓
+http://111.29.9.34:6410/000000001001/5000000011000031206/index.m3u8?channel-id=bestzb&Contentid=5000000011000031206&livemode=1&stbId=m
+#EXTINF:-1 tvg-name="茶" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/dxdragon/IPTV/main/logo/茶频道.png" group-title="湖南地方",茶频道
+http://111.29.9.34:6410/000000001001/5000000011000031209/index.m3u8?channel-id=bestzb&Contentid=5000000011000031209&livemode=1&stbId=m
+
 #NewTV
 #EXTINF:-1 tvg-name="newtv爱情喜剧" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/dxdragon/IPTV/main/logo/NewTV爱情喜剧.png" group-title="NewTV",爱情喜剧
 http://ott.mobaibox.com/PLTV/3/224/3221227548/index.m3u8
@@ -195,8 +262,79 @@ http://ott.mobaibox.com/PLTV/3/224/3221227475/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221227588/index.m3u8
 #EXTINF:-1,tvg-name="newtv怡伴健康" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/dxdragon/IPTV/main/logo/NewTV怡伴健康.png" group-title="NewTV",怡伴健康
 http://ott.mobaibox.com/PLTV/3/224/3221227612/index.m3u8
+#EXTINF:-1,tvg-name="newtv精品综合" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/dxdragon/IPTV/main/logo/NewTV怡伴健康.png" group-title="NewTV",怡伴健康
+http://111.29.9.34:6410/000000001001/1000000004000019008/index.m3u8?channel-id=ystenlive&Contentid=1000000004000019008&livemode=1&stbId=m
+#EXTINF:-1,tvg-name="newtv精品纪录" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/dxdragon/IPTV/main/logo/NewTV怡伴健康.png" group-title="NewTV",怡伴健康
+http://111.29.9.34:6410/000000001001/1000000004000013730/index.m3u8?channel-id=ystenlive&Contentid=1000000004000013730&livemode=1&stbId=m
+#EXTINF:-1,tvg-name="newtv欢乐剧场" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/dxdragon/IPTV/main/logo/NewTV欢乐剧场.png" group-title="NewTV",欢乐剧场
+http://111.29.9.34:6410/000000001001/1000000005000266012/index.m3u8?channel-id=ystenlive&Contentid=1000000005000266012&livemode=1&stbId=m
+#EXTINF:-1,tvg-name="newtv魅力潇湘" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/dxdragon/IPTV/main/logo/NewTV魅力潇湘.png" group-title="NewTV",魅力潇湘
+http://111.29.9.34:6410/000000001001/1000000001000006197/index.m3u8?channel-id=ystenlive&Contentid=1000000001000006197&livemode=1&stbId=m
+#EXTINF:-1,tvg-name="newtv东北热剧" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/dxdragon/IPTV/main/logo/NewTV东北热剧.png" group-title="NewTV",东北热剧
+http://111.29.9.34:6410/000000001001/2000000003000000051/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000051&livemode=1&stbId=m
+#EXTINF:-1,tvg-name="newtv超级综艺" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/dxdragon/IPTV/main/logo/NewTV超级综艺.png" group-title="NewTV",超级综艺
+http://111.29.9.34:6410/000000001001/2000000003000000029/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000029&livemode=1&stbId=m
+#EXTINF:-1,tvg-name="newtv超级体育" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/dxdragon/IPTV/main/logo/NewTV超级体育.png" group-title="NewTV",超级体育
+http://111.29.9.34:6410/000000001001/2000000003000000030/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000030&livemode=1&stbId=m
+#EXTINF:-1,tvg-name="newtv超级电影" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/dxdragon/IPTV/main/logo/NewTV超级电影.png" group-title="NewTV",超级电影
+http://111.29.9.34:6410/000000001001/2000000003000000031/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000031&livemode=1&stbId=m
+#EXTINF:-1,tvg-name="newtv超级电视剧" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/dxdragon/IPTV/main/logo/NewTV超级电视剧.png" group-title="NewTV",超级电视剧
+http://111.29.9.34:6410/000000001001/2000000003000000032/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000032&livemode=1&stbId=m
 #EXTINF:-1 tvg-name="哒啵赛事" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/dxdragon/IPTV/main/logo/NewTV哒啵赛事.png" group-title="NewTV",哒啵赛事
 http://ott.mobaibox.com/PLTV/4/224/3221225539/index.m3u8
+#EXTINF:-1 tvg-name="哒啵电竞" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/dxdragon/IPTV/main/logo/NewTV哒啵电竞.png" group-title="NewTV",哒啵电竞
+http://111.29.9.34:6410/000000001001/1000000006000032327/index.m3u8?channel-id=ystenlive&Contentid=1000000006000032327&livemode=1&stbId=m
+
+#iHOT
+#EXTINF:-1 tvg-name="爱谍战" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/dxdragon/IPTV/main/logo/IHOT爱谍战.png" group-title="iHOT",爱谍战
+http://111.29.9.34:6410/000000001001/6000000006000070630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000070630&livemode=1&stbId=m
+#EXTINF:-1 tvg-name="爱动漫" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/dxdragon/IPTV/main/logo/IHOT爱动漫.png" group-title="iHOT",爱动漫
+http://111.29.9.34:6410/000000001001/6000000006000280630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000280630&livemode=1&stbId=m
+#EXTINF:-1 tvg-name="爱都市" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/dxdragon/IPTV/main/logo/IHOT爱都市.png" group-title="iHOT",爱都市
+http://111.29.9.34:6410/000000001001/6000000006000080630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000080630&livemode=1&stbId=m
+#EXTINF:-1 tvg-name="爱怀旧" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/dxdragon/IPTV/main/logo/IHOT爱怀旧.png" group-title="iHOT",爱怀旧
+http://111.29.9.34:6410/000000001001/6000000006000260630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000260630&livemode=1&stbId=m
+#EXTINF:-1 tvg-name="爱经典" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/dxdragon/IPTV/main/logo/IHOT爱经典.png" group-title="iHOT",爱经典
+http://111.29.9.34:6410/000000001001/6000000006000060630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000060630&livemode=1&stbId=m
+#EXTINF:-1 tvg-name="爱科幻" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/dxdragon/IPTV/main/logo/IHOT爱科幻.png" group-title="iHOT",爱科幻
+http://111.29.9.34:6410/000000001001/6000000006000020630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000020630&livemode=1&stbId=m
+#EXTINF:-1 tvg-name="爱科学" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/dxdragon/IPTV/main/logo/IHOT爱科学.png" group-title="iHOT",爱科学
+http://111.29.9.34:6410/000000001001/6000000006000160630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000160630&livemode=1&stbId=m
+#EXTINF:-1 tvg-name="爱浪漫" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/dxdragon/IPTV/main/logo/IHOT爱浪漫.png" group-title="iHOT",爱浪漫
+http://111.29.9.34:6410/000000001001/6000000006000040630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000040630&livemode=1&stbId=m
+#EXTINF:-1 tvg-name="爱历史" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/dxdragon/IPTV/main/logo/IHOT爱历史.png" group-title="iHOT",爱历史
+http://111.29.9.34:6410/000000001001/6000000006000150630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000150630&livemode=1&stbId=m
+#EXTINF:-1 tvg-name="爱旅行" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/dxdragon/IPTV/main/logo/IHOT爱旅行.png" group-title="iHOT",爱旅行
+http://111.29.9.34:6410/000000001001/6000000006000250630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000250630&livemode=1&stbId=m
+#EXTINF:-1 tvg-name="爱奇谈" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/dxdragon/IPTV/main/logo/IHOT爱奇谈.png" group-title="iHOT",爱奇谈
+http://111.29.9.34:6410/000000001001/6000000006000270630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000270630&livemode=1&stbId=m
+#EXTINF:-1 tvg-name="爱青春" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/dxdragon/IPTV/main/logo/IHOT爱青春.png" group-title="iHOT",爱青春
+http://111.29.9.34:6410/000000001001/6000000006000100630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000100630&livemode=1&stbId=m
+#EXTINF:-1 tvg-name="爱赛车" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/dxdragon/IPTV/main/logo/IHOT爱赛车.png" group-title="iHOT",爱赛车
+http://111.29.9.34:6410/000000001001/6000000006000240630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000240630&livemode=1&stbId=m
+#EXTINF:-1 tvg-name="爱体育" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/dxdragon/IPTV/main/logo/IHOT爱体育.png" group-title="iHOT",爱体育
+http://111.29.9.34:6410/000000001001/6000000006000290630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000290630&livemode=1&stbId=m
+#EXTINF:-1 tvg-name="爱玩具" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/dxdragon/IPTV/main/logo/IHOT爱玩具.png" group-title="iHOT",爱玩具
+http://111.29.9.34:6410/000000001001/6000000006000220630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000220630&livemode=1&stbId=m
+#EXTINF:-1 tvg-name="爱戏剧" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/dxdragon/IPTV/main/logo/IHOT爱戏剧.png" group-title="iHOT",爱戏剧
+http://111.29.9.34:6410/000000001001/6000000006000010630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000010630&livemode=1&stbId=m
+#EXTINF:-1 tvg-name="爱悬疑" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/dxdragon/IPTV/main/logo/IHOT爱悬疑.png" group-title="iHOT",爱悬疑
+http://111.29.9.34:6410/000000001001/6000000006000050630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000050630&livemode=1&stbId=m
+#EXTINF:-1 tvg-name="爱幼教" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/dxdragon/IPTV/main/logo/IHOT爱幼教.png" group-title="iHOT",爱幼教
+http://111.29.9.34:6410/000000001001/6000000006000180630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000180630&livemode=1&stbId=m
+#EXTINF:-1 tvg-name="爱院线" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/dxdragon/IPTV/main/logo/IHOT爱院线.png" group-title="iHOT",爱院线
+http://111.29.9.34:6410/000000001001/6000000006000030630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000030630&livemode=1&stbId=m
+
+#求索频道
+#EXTINF:-1 tvg-name="求索动物" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/dxdragon/IPTV/main/logo/求索动物.png" group-title="求索频道",求索动物
+http://111.29.9.34:6410/000000001001/6000000002000010046/index.m3u8?channel-id=wasusyt&Contentid=6000000002000010046&livemode=1&stbId=m
+#EXTINF:-1 tvg-name="求索纪录" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/dxdragon/IPTV/main/logo/求索纪录.png" group-title="求索频道",求索纪录
+http://111.29.9.34:6410/000000001001/6000000002000032052/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032052&livemode=1&stbId=m
+#EXTINF:-1 tvg-name="求索科学" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/dxdragon/IPTV/main/logo/求索科学.png" group-title="求索频道",求索科学
+http://111.29.9.34:6410/000000001001/6000000002000032344/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032344&livemode=1&stbId=m
+#EXTINF:-1 tvg-name="求索生活" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/dxdragon/IPTV/main/logo/求索生活.png" group-title="求索频道",求索生活
+http://111.29.9.34:6410/000000001001/6000000002000003382/index.m3u8?channel-id=wasusyt&Contentid=6000000002000003382&livemode=1&stbId=m
+
 #咪咕频道
 #EXTINF:-1 tvg-name="咪咕音乐" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/dxdragon/IPTV/main/logo/咪咕音乐.png" group-title="咪咕频道",咪咕音乐-1
 http://ott.mobaibox.com/PLTV/3/224/3221228444/index.m3u8
@@ -212,11 +350,14 @@ http://ott.mobaibox.com/PLTV/3/224/3221228679/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221228729/index.m3u8
 #EXTINF:-1 tvg-name="睛彩广场舞" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/dxdragon/IPTV/main/logo/睛彩广场舞.png" group-title="咪咕频道",睛彩广场舞
 http://ott.mobaibox.com/PLTV/3/224/3221228231/index.m3u8
+
 #数字频道
 #EXTINF:-1 tvg-name="纯享4K" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/dxdragon/IPTV/main/logo/纯享4K.png" group-title="数字频道",纯享4K
 http://ott.mobaibox.com/PLTV/3/224/3221227506/index.m3u8
 #EXTINF:-1 tvg-name="4K修复" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/dxdragon/IPTV/main/logo/4K修复.png" group-title="数字频道",4K修复
 http://ott.mobaibox.com/PLTV/3/224/3221228141/index.m3u8
+#EXTINF:-1 tvg-name="华数4K" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/dxdragon/IPTV/main/logo/华数4K.png" group-title="数字频道",华数4K
+http://111.29.9.34:6410/000000001001/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=m
 #EXTINF:-1 tvg-name="百姓生活" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/dxdragon/IPTV/main/logo/百姓生活.png" group-title="数字频道",百姓生活
 http://ott.mobaibox.com/PLTV/3/224/3221228466/index.m3u8
 #EXTINF:-1 tvg-name="美食美味" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/dxdragon/IPTV/main/logo/中华美食.png" group-title="数字频道",美食美味
@@ -241,6 +382,10 @@ http://ott.mobaibox.com/PLTV/3/224/3221228579/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221228638/index.m3u8
 #EXTINF:-1 tvg-name="怀旧MTV" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/dxdragon/IPTV/main/logo/怀旧MTV.png" group-title="数字频道",怀旧MTV
 http://ott.mobaibox.com/PLTV/3/224/3221228815/index.m3u8
+#EXTINF:-1 tvg-name="精彩影视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/dxdragon/IPTV/main/logo/精彩影视.png" group-title="数字频道",精彩影视
+http://111.29.9.34:6410/000000001001/6000000006000320630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000320630&livemode=1&stbId=m
+#EXTINF:-1 tvg-name="中国天气" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/dxdragon/IPTV/main/logo/中国天气.png" group-title="数字频道",中国天气
+http://111.29.9.34:6410/000000001001/5000000005000031974/index.m3u8?channel-id=bestzb&Contentid=5000000005000031974&livemode=1&stbId=m
 #EXTINF:-1 tvg-name="1905电影网" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/dxdragon/IPTV/main/logo/1905.png" group-title="数字频道",1905电影网-国内
 http://php.jdshipin.com:8880/1905.php?id=1905dy
 #EXTINF:-1 tvg-name="1905电影网" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/dxdragon/IPTV/main/logo/1905.png" group-title="数字频道",1905电影网-国外
@@ -251,6 +396,7 @@ https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="RedBull TV" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/dxdragon/IPTV/main/logo/RedBullTV.png" group-title="数字频道",RedBull TV
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+
 #港澳频道
 #EXTINF:-1 tvg-name="凤凰卫视香港台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/dxdragon/IPTV/main/logo/凤凰卫视香港台.png" group-title="港澳频道",凤凰卫视香港台
 http://ott.mobaibox.com/PLTV/3/224/3221228530/index.m3u8
@@ -270,9 +416,13 @@ http://php.jdshipin.com/TVOD/iptv.php?id=j1
 http://php.jdshipin.com/TVOD/iptv.php?id=j2
 #EXTINF:-1 tvg-name="美亚电影" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/dxdragon/IPTV/main/logo/美亚电影台.png" group-title="港澳频道",美亚电影台
 http://php.jdshipin.com/TVOD/iptv.php?id=meiya
-#EXTINF:-1 tvg-name="亚洲新闻台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/dxdragon/IPTV/main/logo/CNA.png" group-title="港澳频道",亚洲新闻
+
+#海外频道
+#EXTINF:-1 tvg-name="亚洲新闻台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/dxdragon/IPTV/main/logo/CNA.png" group-title="海外频道",亚洲新闻
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1 tvg-name="半岛新闻" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/dxdragon/IPTV/main/logo/半岛新闻.png" group-title="港澳频道",半岛新闻
+#EXTINF:-1 tvg-name="半岛新闻" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/dxdragon/IPTV/main/logo/半岛新闻.png" group-title="海外频道",半岛新闻
 http://live-hls-web-aje.getaj.net/AJE/01.m3u8
-#EXTINF:-1 tvg-name="美国之音" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/dxdragon/IPTV/main/logo/VOA.png" group-title="港澳频道",美国之音
+#EXTINF:-1 tvg-name="美国之音" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/dxdragon/IPTV/main/logo/VOA.png" group-title="海外频道",美国之音
 https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlist.m3u8
+#EXTINF:-1 tvg-name="Arirang" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/dxdragon/IPTV/main/logo/Arirang.png" group-title="海外频道",Arirang
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8

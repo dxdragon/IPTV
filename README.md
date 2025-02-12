@@ -9,8 +9,6 @@ m3u:
 
 https://gh-proxy.com/https://raw.githubusercontent.com/dxdragon/IPTV/main/JSIPTV.m3u  江苏移动推荐
 
-https://gh-proxy.com/https://raw.githubusercontent.com/dxdragon/IPTV/main/GITV.m3u  全国可用
-
 播放器：
 
 Android: Televizo，IPTV Pro，等；

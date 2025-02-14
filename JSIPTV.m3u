@@ -67,7 +67,7 @@ http://ott.mobaibox.com/PLTV/3/224/3221228689/index.m3u8
 #EXTINF:-1 tvg-name="CGTN" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/dxdragon/IPTV/main/logo/CGTN.png" group-title="央视频道",CGTN
 http://111.29.9.34:6410/000000001001/7745129417417101820/index.m3u8?channel-id=hnbblive&Contentid=7745129417417101820&livemode=1&stbId=m
 #EXTINF:-1 tvg-name="CGTN纪录" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/dxdragon/IPTV/main/logo/CGTN纪录.png" group-title="央视频道",CGTN-纪录
-https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8
+http://111.29.9.34:6410/000000001001/7114647837765104058/index.m3u8?channel-id=hnbblive&Contentid=7114647837765104058&livemode=1&stbId=m
 #EXTINF:-1 tvg-name="早期教育" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/dxdragon/IPTV/main/logo/早期教育.png" group-title="央视频道",CETV-早期教育
 http://ott.mobaibox.com/PLTV/3/224/3221228692/index.m3u8
 #EXTINF:-1 tvg-name="CETV1" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/dxdragon/IPTV/main/logo/CETV1.png" group-title="央视频道",CETV-1
@@ -380,12 +380,6 @@ http://ott.mobaibox.com/PLTV/3/224/3221227506/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221228141/index.m3u8
 #EXTINF:-1 tvg-name="华数4K" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/dxdragon/IPTV/main/logo/华数4K.png" group-title="数字频道",华数4K
 http://111.29.9.34:6410/000000001001/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=m
-#EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/dxdragon/IPTV/main/logo/CHC影迷电影.png" group-title="数字频道",CHC影迷电影
-http://58.19.38.162:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/dxdragon/IPTV/main/logo/CHC动作电影.png" group-title="数字频道",CHC动作电影
-http://58.19.38.162:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/dxdragon/IPTV/main/logo/CHC家庭影院.png" group-title="数字频道",CHC家庭影院
-http://58.19.38.162:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="重温经典" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/dxdragon/IPTV/main/logo/重温经典.png" group-title="数字频道",重温经典
 http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
 #EXTINF:-1 tvg-name="百姓生活" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/dxdragon/IPTV/main/logo/百姓生活.png" group-title="数字频道",百姓生活
@@ -428,6 +422,8 @@ https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_
 https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 #EXTINF:-1 tvg-name="RedBull TV" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/dxdragon/IPTV/main/logo/RedBullTV.png" group-title="数字频道",RedBull TV
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1 tvg-name="Wild Earth" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/dxdragon/IPTV/main/logo/WildEarth.png" group-title="数字频道",Wild Earth
+https://wildearth-plex.amagi.tv/masterR1080p.m3u8
 
 #港澳频道
 #EXTINF:-1 tvg-name="凤凰卫视香港台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/dxdragon/IPTV/main/logo/凤凰卫视香港台.png" group-title="港澳频道",凤凰卫视香港台
@@ -450,6 +446,8 @@ http://php.jdshipin.com/TVOD/iptv.php?id=j2
 http://php.jdshipin.com/TVOD/iptv.php?id=meiya
 #EXTINF:-1 tvg-name="HOY TV" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/dxdragon/IPTV/main/logo/HOYTV.png" group-title="港澳频道",HOY TV
 http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
+#EXTINF:-1 tvg-name="TaiwanPlus" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/dxdragon/IPTV/main/logo/TaiwanPlus.png" group-title="港澳频道",TaiwanPlus
+https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
 
 #海外频道
 #EXTINF:-1 tvg-name="亚洲新闻台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/dxdragon/IPTV/main/logo/CNA.png" group-title="海外频道",亚洲新闻
@@ -458,6 +456,20 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m
 http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 tvg-name="美国之音" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/dxdragon/IPTV/main/logo/VOA.png" group-title="海外频道",美国之音
 https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlist.m3u8
+#EXTINF:-1 tvg-id="6159" tvg-name="AXS TV Now" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/dxdragon/IPTV/main/logo/AXSTV.png" group-title="海外频道",AXS TV Now
+https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8
+#EXTINF:-1 tvg-name="Wion News" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/dxdragon/IPTV/main/logo/Wion.png" group-title="海外频道",Wion News
+https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
+#EXTINF:-1 tvg-id="988" tvg-name="Trace Sports" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/dxdragon/IPTV/main/logo/TraceSports.png" group-title="海外频道",Trace Sports
+https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 tvg-name="CBN News" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/dxdragon/IPTV/main/logo/CBNNews.png" group-title="海外频道",CBN News
+https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
+#EXTINF:-1 tvg-name="NEWSMAX2" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/dxdragon/IPTV/main/logo/NEWSMAX2.png" group-title="海外频道",NEWSMAX2
+http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+#EXTINF:-1 tvg-id="RT01" tvg-name="RT News" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/dxdragon/IPTV/main/logo/RT News.png" group-title="海外频道",RT News
+https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
+#EXTINF:-1 tvg-id="RT06" tvg-name="RT Documentary" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/tvlog/RTDoc.png" group-title="海外频道",RT Documentary
+https://rt-rtd.rttv.com/dvr/rtdoc/playlist_4500Kb.m3u8
 #EXTINF:-1 tvg-name="Arirang" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/dxdragon/IPTV/main/logo/Arirang.png" group-title="海外频道",Arirang
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="MBC" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/dxdragon/IPTV/main/logo/MBC.png" group-title="海外频道",MBC

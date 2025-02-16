@@ -360,9 +360,9 @@ http://111.29.9.34:6410/000000001001/6000000002000032344/index.m3u8?channel-id=w
 http://111.29.9.34:6410/000000001001/6000000002000003382/index.m3u8?channel-id=wasusyt&Contentid=6000000002000003382&livemode=1&stbId=m
 
 #咪咕频道
-#EXTINF:-1 tvg-name="咪咕音乐" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/咪咕音乐.png" group-title="咪咕频道",咪咕音乐-1
+#EXTINF:-1 tvg-name="咪咕音乐" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/咪咕音乐.png" group-title="咪咕频道",抖音热歌
 http://ott.mobaibox.com/PLTV/3/224/3221228444/index.m3u8
-#EXTINF:-1 tvg-name="咪咕音乐" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/咪咕音乐.png" group-title="咪咕频道",咪咕音乐-2
+#EXTINF:-1 tvg-name="咪咕音乐" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/咪咕音乐.png" group-title="咪咕频道",流行音乐
 http://ott.mobaibox.com/PLTV/3/224/3221228794/index.m3u8
 #EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/睛彩篮球.png" group-title="咪咕频道",睛彩篮球
 http://ott.mobaibox.com/PLTV/3/224/3221228682/index.m3u8
@@ -388,12 +388,16 @@ http://58.19.38.162:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 http://58.19.38.162:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CHC家庭影院" group-title="数字频道" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/CHC家庭影院.png",CHC家庭影院
 http://58.19.38.162:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="居家健身" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/居家健身.png" group-title="数字频道",居家健身
+http://ott.mobaibox.com/PLTV/3/224/3221228454/index.m3u8
 #EXTINF:-1 tvg-name="百姓生活" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/百姓生活.png" group-title="数字频道",百姓生活
 http://ott.mobaibox.com/PLTV/3/224/3221228466/index.m3u8
 #EXTINF:-1 tvg-name="美食美味" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/中华美食.png" group-title="数字频道",美食美味
 http://ott.mobaibox.com/PLTV/4/224/3221228562/index.m3u8
-#EXTINF:-1 tvg-name="居家健身" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/居家健身.png" group-title="数字频道",居家健身
-http://ott.mobaibox.com/PLTV/3/224/3221228454/index.m3u8
+#EXTINF:-1 tvg-name="音乐心情" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/QQ音乐.png" group-title="数字频道",音乐心情
+http://ott.mobaibox.com/PLTV/3/224/3221228592/index.m3u8
+#EXTINF:-1 tvg-name="综艺金曲" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/QQ音乐.png" group-title="数字频道",综艺金曲
+http://ott.mobaibox.com/PLTV/3/224/3221228641/index.m3u8
 #EXTINF:-1 tvg-name="健康生活" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/健康生活.png" group-title="数字频道",健康生活
 http://ott.mobaibox.com/PLTV/3/224/3221228706/index.m3u8
 #EXTINF:-1 tvg-name="高分电影" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/电影.png" group-title="数字频道",高分电影

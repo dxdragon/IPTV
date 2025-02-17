@@ -420,15 +420,15 @@ http://ott.mobaibox.com/PLTV/3/224/3221228815/index.m3u8
 http://111.29.9.34:6410/000000001001/6000000006000320630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000320630&livemode=1&stbId=m
 #EXTINF:-1 tvg-name="中国天气" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/中国天气.png" group-title="数字频道",中国天气
 http://111.29.9.34:6410/000000001001/5000000005000031974/index.m3u8?channel-id=bestzb&Contentid=5000000005000031974&livemode=1&stbId=m
-#EXTINF:-1 tvg-name="力量影院" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/1905.png" group-title="数字频道",1905力量影院
+#EXTINF:-1 tvg-name="力量影院" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/1905.png" group-title="数字频道",力量影院
 http://php.jdshipin.com:8880/1905.php?id=1905dy
-#EXTINF:-1 tvg-name="环球经典" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/1905.png" group-title="数字频道",1905环球经典
+#EXTINF:-1 tvg-name="环球经典" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/1905.png" group-title="数字频道",环球经典
 http://php.jdshipin.com:8880/1905.php?id=1905dy2
 #EXTINF:-1 tvg-name="LOVE NATURE" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/LoveNature.png" group-title="数字频道",LOVE NATURE
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1 tvg-name="FASHION TV" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/FTVUHD.png" group-title="数字频道",FASHION TV
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="Loupe" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/Loupe.png" group-title="数字频道",Loupe 4K
+#EXTINF:-1 tvg-name="Loupe" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/Loupe.png" group-title="数字频道",Loupe
 https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 #EXTINF:-1 tvg-name="RedBull TV" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/RedBullTV.png" group-title="数字频道",RedBull TV
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8

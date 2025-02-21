@@ -176,10 +176,10 @@ http://zhfivel02.cztv.com/channel12/1080p.m3u8?auth_key=2524708799-0-0-19b0d66de
 #广东地方
 #EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/广东珠江.png" group-title="广东地方",广东珠江
 http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
-#EXTINF:-1 tvg-name="南国都市" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/南国都市.png" group-title="广东地方",南国都市
-http://php.jdshipin.com/TVOD/iptv.php?id=gzngds
 #EXTINF:-1 tvg-name="广东体育" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/广东体育.png" group-title="广东地方",广东体育
 http://php.jdshipin.com/TVOD/iptv.php?id=gdty
+#EXTINF:-1 tvg-name="南国都市" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/南国都市.png" group-title="广东地方",南国都市
+http://php.jdshipin.com/TVOD/iptv.php?id=gzngds
 
 #黑龙江地方
 #EXTINF:-1 tvg-name="黑龙江都市" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/黑龙江都市.png" group-title="黑龙江地方",黑龙江都市
@@ -240,6 +240,14 @@ http://ott.mobaibox.com/PLTV/3/224/3221227615/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221227618/index.m3u8
 #EXTINF:-1 tvg-name="newtv精品萌宠" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/NewTV精品萌宠.png" group-title="NewTV",精品萌宠
 http://ott.mobaibox.com/PLTV/3/224/3221228430/index.m3u8
+#EXTINF:-1 tvg-name="newtv超级综艺" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/NewTV超级综艺.png" group-title="NewTV",超级综艺
+http://111.29.9.35:6610/000000001000/1000000004000023658/index.m3u8?channel-id=ystenlive&Contentid=1000000004000023658&livemode=1&stbId=3
+#EXTINF:-1 tvg-name="newtv超级电影" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/NewTV超级电影.png" group-title="NewTV",超级电影
+http://111.29.9.40:6610/000000001000/1000000001000012884/index.m3u8?channel-id=ystenlive&Contentid=1000000001000012884&livemode=1&stbId=3
+#EXTINF:-1 tvg-name="newtv超级体育" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/NewTV超级体育.png" group-title="NewTV",超级体育
+http://111.29.9.37:6610/000000001000/1000000004000007755/index.m3u8?channel-id=ystenlive&Contentid=1000000004000007755&livemode=1&stbId=3
+#EXTINF:-1 tvg-name="newtv超级电视剧" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/NewTV超级电视剧.png" group-title="NewTV",超级电视剧
+http://111.29.9.37:6610/000000001000/1000000001000008139/index.m3u8?channel-id=ystenlive&Contentid=1000000001000008139&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="哒啵赛事" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/NewTV哒啵赛事.png" group-title="NewTV",哒啵赛事
 http://ott.mobaibox.com/PLTV/4/224/3221225539/index.m3u8
 
@@ -310,14 +318,16 @@ http://58.19.38.162:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
 http://58.19.38.162:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="LOVE NATURE" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/LoveNature.png" group-title="数字频道",LOVE NATURE
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+#EXTINF:-1 tvg-name="Wild Earth" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/WildEarth.png" group-title="数字频道",Wild Earth
+https://wildearth-plex.amagi.tv/masterR1080p.m3u8
+#EXTINF:-1 tvg-name="4K TRAVEL" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/4KTravel.png" group-title="数字频道",4K TRAVEL
+https://streams2.sofast.tv/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/master.m3u8
 #EXTINF:-1 tvg-name="FashionTV" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/FTVUHD.png" group-title="数字频道",Fashion TV
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Loupe" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/Loupe.png" group-title="数字频道",Loupe
-https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
+https://d2dw21aq0j0l5c.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-name="RedBullTV" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/RedBullTV.png" group-title="数字频道",RedBull TV
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-#EXTINF:-1 tvg-name="WildEarth" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/WildEarth.png" group-title="数字频道",Wild Earth
-https://wildearth-plex.amagi.tv/masterR1080p.m3u8
 
 #港澳频道
 #EXTINF:-1 tvg-name="凤凰卫视香港台" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/凤凰卫视香港台.png" group-title="港澳频道",凤凰卫视香港台
@@ -339,8 +349,16 @@ http://php.jdshipin.com/TVOD/iptv.php?id=j2
 #EXTINF:-1 tvg-name="美亚电影" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/美亚电影台.png" group-title="港澳频道",美亚电影台
 http://php.jdshipin.com/TVOD/iptv.php?id=meiya
 #EXTINF:-1 tvg-name="HOY77" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/HOYTV.png" group-title="港澳频道",HOY TV
-http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
-#EXTINF:-1 tvg-name="TaiwanPlus" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/TaiwanPlus.png" group-title="港澳频道",TaiwanPlus
+http://cdn.132.us.kg/live/hoy/stream.m3u8
+#EXTINF:-1 tvg-name="港台电视31" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/RTHK31.png" group-title="港澳频道",港台电视31
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk31
+#EXTINF:-1 tvg-name="港台电视32" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/RTHK32.png" group-title="港澳频道",港台电视32
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk32
+#EXTINF:-1 tvg-name="澳视澳门" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/澳视澳门.png" group-title="港澳频道",澳视澳门
+http://cdn.132.us.kg/live/asam/stream.m3u8
+#EXTINF:-1 tvg-name="澳亚卫视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/澳门Macau.png" group-title="港澳频道",澳门Macau
+http://cdn.132.us.kg/live/as/stream.m3u8
+#EXTINF:-1 tvg-name="TaiwanPlus" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/TaiwanPlus.png" group-title="港澳频道",Taiwan Plus
 https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
 
 #海外频道

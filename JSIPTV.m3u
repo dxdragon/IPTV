@@ -76,62 +76,62 @@ http://itv.uat.news/TVOD/7745129417417101820/hnbblive/index.m3u8
 http://itv.uat.news/TVOD/7114647837765104058/hnbblive/index.m3u8
 
 #卫视频道
-#EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/东南卫视.png" group-title="卫视频道",东南卫视
-http://ott.mobaibox.com/PLTV/3/224/3221227670/index.m3u8
-#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/东方卫视.png" group-title="卫视频道",东方卫视
-http://ott.mobaibox.com/PLTV/3/224/3221227511/index.m3u8
-#EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/云南卫视.png" group-title="卫视频道",云南卫视
-http://ott.mobaibox.com/PLTV/3/224/3221227571/index.m3u8
-#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/北京卫视.png" group-title="卫视频道",北京卫视
-http://ott.mobaibox.com/PLTV/3/224/3221227508/index.m3u8
-#EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/吉林卫视.png" group-title="卫视频道",吉林卫视
-http://ott.mobaibox.com/PLTV/3/224/3221228130/index.m3u8
-#EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/四川卫视.png" group-title="卫视频道",四川卫视
-http://ott.mobaibox.com/PLTV/3/224/3221228171/index.m3u8
-#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/天津卫视.png" group-title="卫视频道",天津卫视
-http://ott.mobaibox.com/PLTV/3/224/3221227488/index.m3u8
 #EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/安徽卫视.png" group-title="卫视频道",安徽卫视
 http://ott.mobaibox.com/PLTV/3/224/3221227558/index.m3u8
-#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/山东卫视.png" group-title="卫视频道",山东卫视
-http://ott.mobaibox.com/PLTV/3/224/3221227517/index.m3u8
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/北京卫视.png" group-title="卫视频道",北京卫视
+http://ott.mobaibox.com/PLTV/3/224/3221227508/index.m3u8
+#EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/重庆卫视.png" group-title="卫视频道",重庆卫视
+http://ott.mobaibox.com/PLTV/3/224/3221228133/index.m3u8
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/东方卫视.png" group-title="卫视频道",东方卫视
+http://ott.mobaibox.com/PLTV/3/224/3221227511/index.m3u8
+#EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/东南卫视.png" group-title="卫视频道",东南卫视
+http://ott.mobaibox.com/PLTV/3/224/3221227670/index.m3u8
+#EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/甘肃卫视.png" group-title="卫视频道",甘肃卫视
+http://ott.mobaibox.com/PLTV/3/224/3221228166/index.m3u8
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/广东卫视.png" group-title="卫视频道",广东卫视
 http://ott.mobaibox.com/PLTV/3/224/3221227476/index.m3u8
 #EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/广西卫视.png" group-title="卫视频道",广西卫视
 http://ott.mobaibox.com/PLTV/3/224/3221228183/index.m3u8
-#EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/新疆卫视.png" group-title="卫视频道",新疆卫视
-http://ott.mobaibox.com/PLTV/3/224/3221228290/index.m3u8
-#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/江苏卫视.png" group-title="卫视频道",江苏卫视
-http://ott.mobaibox.com/PLTV/3/224/3221227552/index.m3u8
-#EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/江西卫视.png" group-title="卫视频道",江西卫视
-http://ott.mobaibox.com/PLTV/3/224/3221228109/index.m3u8
+#EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/贵州卫视.png" group-title="卫视频道",贵州卫视
+http://ott.mobaibox.com/PLTV/3/224/3221228136/index.m3u8
+#EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/海南卫视.png" group-title="卫视频道",海南卫视
+http://ott.mobaibox.com/PLTV/3/224/3221228139/index.m3u8
 #EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/河北卫视.png" group-title="卫视频道",河北卫视
 http://ott.mobaibox.com/PLTV/3/224/3221228106/index.m3u8
 #EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/河南卫视.png" group-title="卫视频道",河南卫视
 http://ott.mobaibox.com/PLTV/3/224/3221228221/index.m3u8
-#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/浙江卫视.png" group-title="卫视频道",浙江卫视
-http://ott.mobaibox.com/PLTV/3/224/3221227491/index.m3u8
-#EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/海南卫视.png" group-title="卫视频道",海南卫视
-http://ott.mobaibox.com/PLTV/3/224/3221228139/index.m3u8
-#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/深圳卫视.png" group-title="卫视频道",深圳卫视
-http://ott.mobaibox.com/PLTV/3/224/3221227555/index.m3u8
+#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/黑龙江卫视.png" group-title="卫视频道",黑龙江卫视
+http://ott.mobaibox.com/PLTV/3/224/3221227514/index.m3u8
 #EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/湖北卫视.png" group-title="卫视频道",湖北卫视
 http://ott.mobaibox.com/PLTV/3/224/3221227479/index.m3u8
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/湖南卫视.png" group-title="卫视频道",湖南卫视
 http://ott.mobaibox.com/PLTV/3/224/3221227482/index.m3u8
-#EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/甘肃卫视.png" group-title="卫视频道",甘肃卫视
-http://ott.mobaibox.com/PLTV/3/224/3221228166/index.m3u8
-#EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/贵州卫视.png" group-title="卫视频道",贵州卫视
-http://ott.mobaibox.com/PLTV/3/224/3221228136/index.m3u8
+#EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/吉林卫视.png" group-title="卫视频道",吉林卫视
+http://ott.mobaibox.com/PLTV/3/224/3221228130/index.m3u8
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/江苏卫视.png" group-title="卫视频道",江苏卫视
+http://ott.mobaibox.com/PLTV/3/224/3221227552/index.m3u8
+#EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/江西卫视.png" group-title="卫视频道",江西卫视
+http://ott.mobaibox.com/PLTV/3/224/3221228109/index.m3u8
 #EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/辽宁卫视.png" group-title="卫视频道",辽宁卫视
 http://ott.mobaibox.com/PLTV/3/224/3221227485/index.m3u8
-#EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/重庆卫视.png" group-title="卫视频道",重庆卫视
-http://ott.mobaibox.com/PLTV/3/224/3221228133/index.m3u8
 #EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/青海卫视.png" group-title="卫视频道",青海卫视
 http://ott.mobaibox.com/PLTV/3/224/3221227554/index.m3u8
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/山东卫视.png" group-title="卫视频道",山东卫视
+http://ott.mobaibox.com/PLTV/3/224/3221227517/index.m3u8
+#EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/四川卫视.png" group-title="卫视频道",四川卫视
+http://ott.mobaibox.com/PLTV/3/224/3221228171/index.m3u8
+#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/天津卫视.png" group-title="卫视频道",天津卫视
+http://ott.mobaibox.com/PLTV/3/224/3221227488/index.m3u8
+#EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/新疆卫视.png" group-title="卫视频道",新疆卫视
+http://ott.mobaibox.com/PLTV/3/224/3221228290/index.m3u8
+#EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/云南卫视.png" group-title="卫视频道",云南卫视
+http://ott.mobaibox.com/PLTV/3/224/3221227571/index.m3u8
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/浙江卫视.png" group-title="卫视频道",浙江卫视
+http://ott.mobaibox.com/PLTV/3/224/3221227491/index.m3u8
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/深圳卫视.png" group-title="卫视频道",深圳卫视
+http://ott.mobaibox.com/PLTV/3/224/3221227555/index.m3u8
 #EXTINF:-1 tvg-name="三沙卫视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/三沙卫视.png" group-title="卫视频道",三沙卫视
 http://ott.mobaibox.com/PLTV/3/224/3221228626/index.m3u8
-#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/黑龙江卫视.png" group-title="卫视频道",黑龙江卫视
-http://ott.mobaibox.com/PLTV/3/224/3221227514/index.m3u8
 #EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/西藏卫视.png" group-title="卫视频道",西藏卫视
 http://php.jdshipin.com:8880/xztv.php?id=ws
 
@@ -298,7 +298,6 @@ http://php.jdshipin.com/TVOD/iptv.php?id=gdty
 http://php.jdshipin.com/TVOD/iptv.php?id=gzngds
 
 #黑龙江地方
-
 #EXTINF:-1 tvg-name="黑龙江影视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/黑龙江影视.png" group-title="黑龙江地方",黑龙江影视
 http://php.jdshipin.com/TVOD/hljyd.php?id=3221226298
 #EXTINF:-1 tvg-name="黑龙江文体" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/黑龙江文体.png" group-title="黑龙江地方",黑龙江文体
@@ -365,10 +364,10 @@ http://itv.uat.news/TVOD/1000000005000266012/ystenlive/index.m3u8
 http://itv.uat.news/TVOD/2000000003000000051/hnbblive/index.m3u8
 #EXTINF:-1 tvg-name="newtv超级综艺" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/NewTV超级综艺.png" group-title="NewTV",超级综艺
 http://itv.uat.news/TVOD/1000000004000023658/ystenlive/index.m3u8
-#EXTINF:-1 tvg-name="newtv超级电影" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/NewTV超级电影.png" group-title="NewTV",超级电影
-http://itv.uat.news/TVOD/1000000001000012884/ystenlive/index.m3u8
 #EXTINF:-1 tvg-name="newtv超级体育" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/NewTV超级体育.png" group-title="NewTV",超级体育
 http://itv.uat.news/TVOD/1000000001000009601/ystenlive/index.m3u8
+#EXTINF:-1 tvg-name="newtv超级电影" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/NewTV超级电影.png" group-title="NewTV",超级电影
+http://itv.uat.news/TVOD/1000000001000012884/ystenlive/index.m3u8
 #EXTINF:-1 tvg-name="newtv超级电视剧" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/NewTV超级电视剧.png" group-title="NewTV",超级电视剧
 http://itv.uat.news/TVOD/1000000001000008139/ystenlive/index.m3u8
 #EXTINF:-1 tvg-name="newtv魅力潇湘" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/NewTV魅力潇湘.png" group-title="NewTV",魅力潇湘

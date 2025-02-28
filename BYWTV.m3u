@@ -2,221 +2,119 @@
 
 #央视频道
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/CCTV1.png" group-title="央视频道",CCTV-1 综合
-http://ott.mobaibox.com/PLTV/3/224/3221228732/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221228581/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221227467/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221228149/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221227462/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221227786/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221228049/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221227725/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221227634/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221228213/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221227675/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221227641/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221228146/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221225530/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221227644/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221227730/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221227896/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221227375/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221228287/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221228821/index.m3u8
+http://itv.uat.news/TVOD/1000000001000018602/ystenlive/index.m3u8
+http://itv.uat.news/TVOD/6000000001000029752/wasusyt/index.m3u8
+http://itv.uat.news/TVOD/5000000004000002226/bestzb/index.m3u8
+http://itv.uat.news/TVOD/1000000005000265001/ystenlive/index.m3u8
+http://itv.uat.news/TVOD/5000000010000030810/bestzb/index.m3u8
+http://itv.uat.news/TVOD/1000000001000021973/ystenlive/index.m3u8
+http://itv.uat.news/TVOD/5000000001000004953/bestzb/index.m3u8
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/CCTV2.png" group-title="央视频道",CCTV-2 财经
-http://ott.mobaibox.com/PLTV/3/224/3221227543/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221228094/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221227427/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221228118/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221227696/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221228300/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221227708/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221227207/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221226993/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221228616/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221228824/index.m3u8
+http://itv.uat.news/TVOD/5000000011000031101/bestzb/index.m3u8
+http://itv.uat.news/TVOD/6000000001000014161/wasusyt/index.m3u8
+http://itv.uat.news/TVOD/1000000001000023315/ystenlive/index.m3u8
+http://itv.uat.news/TVOD/1000000005000265002/ystenlive/index.m3u8
+http://itv.uat.news/TVOD/5000000005000031113/bestzb/index.m3u8
+http://itv.uat.news/TVOD/1000000001000012442/ystenlive/index.m3u8
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/CCTV3.png" group-title="央视频道",CCTV-3 综艺
-http://ott.mobaibox.com/PLTV/3/224/3221228499/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221227546/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221228126/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221227424/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221227623/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221227650/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221228392/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221228188/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221228237/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221225588/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221227295/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221228727/index.m3u8
+http://itv.uat.news/TVOD/5000000004000008883/bestzb/index.m3u8
+http://itv.uat.news/TVOD/6000000001000022313/wasusyt/index.m3u8
+http://itv.uat.news/TVOD/1000000001000013682/ystenlive/index.m3u8
+http://itv.uat.news/TVOD/1000000005000265003/ystenlive/index.m3u8
+http://itv.uat.news/TVOD/1000000001000011218/ystenlive/index.m3u8
+http://itv.uat.news/TVOD/5000000002000020548/bestzb/index.m3u8
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/CCTV4.png" group-title="央视频道",CCTV-4 中文国际
-http://ott.mobaibox.com/PLTV/3/224/3221227549/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221228091/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221227489/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221228156/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221228307/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221227658/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221227683/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221225534/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221227378/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221228733/index.m3u8
+http://itv.uat.news/TVOD/5000000011000031102/bestzb/index.m3u8
+http://itv.uat.news/TVOD/1000000005000265004/ystenlive/index.m3u8
+http://itv.uat.news/TVOD/1000000002000031664/ystenlive/index.m3u8
+http://itv.uat.news/TVOD/5000000005000030093/bestzb/index.m3u8
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/CCTV5.png" group-title="央视频道",CCTV-5 体育
-http://ott.mobaibox.com/PLTV/3/224/3221228502/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221227537/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221227617/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221228179/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221227401/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221228395/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221227640/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221228082/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221228173/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221227661/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221227686/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221227166/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221227298/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221228830/index.m3u8
+http://itv.uat.news/TVOD/1000000005000025222/ystenlive/index.m3u8
+http://itv.uat.news/TVOD/1000000003000030177/ystenlive/index.m3u8
+http://itv.uat.news/TVOD/6000000001000016431/wasusyt/index.m3u8
+http://itv.uat.news/TVOD/5000000004000008885/bestzb/index.m3u8
+http://itv.uat.news/TVOD/1000000005000265005/ystenlive/index.m3u8
+http://itv.uat.news/TVOD/1000000001000004794/ystenlive/index.m3u8
+http://itv.uat.news/TVOD/5000000010000016619/bestzb/index.m3u8
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/CCTV5+.png" group-title="央视频道",CCTV-5+ 体育赛事
-http://ott.mobaibox.com/PLTV/3/224/3221227502/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221228176/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221227480/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221228076/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221228114/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221227631/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221228277/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221227714/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221227685/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221225604/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221227381/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221228492/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221228869/index.m3u8
+http://itv.uat.news/TVOD/1000000001000018504/ystenlive/index.m3u8
+http://itv.uat.news/TVOD/6000000001000015875/wasusyt/index.m3u8
+http://itv.uat.news/TVOD/5000000011000031127/bestzb/index.m3u8
+http://itv.uat.news/TVOD/1000000005000265016/ystenlive/index.m3u8
+http://itv.uat.news/TVOD/1000000001000020505/ystenlive/index.m3u8
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/CCTV6.png" group-title="央视频道",CCTV-6 电影
-http://ott.mobaibox.com/PLTV/3/224/3221228516/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221227505/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221228123/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221227430/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221228185/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221228280/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221227581/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221227664/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221228196/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221225548/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221227209/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221227301/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221228839/index.m3u8
+http://itv.uat.news/TVOD/1000000001000001737/ystenlive/index.m3u8
+http://itv.uat.news/TVOD/6000000001000004574/wasusyt/index.m3u8
+http://itv.uat.news/TVOD/5000000004000008886/bestzb/index.m3u8
+http://itv.uat.news/TVOD/1000000005000265006/ystenlive/index.m3u8
+http://itv.uat.news/TVOD/1000000001000016466/ystenlive/index.m3u8
+http://itv.uat.news/TVOD/5000000010000018433/bestzb/index.m3u8
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/CCTV7.png" group-title="央视频道",CCTV-7 国防军事
-http://ott.mobaibox.com/PLTV/3/224/3221227626/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221227642/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221228643/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221225546/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221228640/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221227314/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221228736/index.m3u8
+http://itv.uat.news/TVOD/1000000001000024341/ystenlive/index.m3u8
+http://itv.uat.news/TVOD/6000000001000009055/wasusyt/index.m3u8
+http://itv.uat.news/TVOD/5000000011000031104/bestzb/index.m3u8
+http://itv.uat.news/TVOD/1000000005000265007/ystenlive/index.m3u8
+http://itv.uat.news/TVOD/1000000001000017218/ystenlive/index.m3u8
+http://itv.uat.news/TVOD/5000000005000026715/bestzb/index.m3u8
 #EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/CCTV8.png" group-title="央视频道",CCTV-8 电视剧
-http://ott.mobaibox.com/PLTV/3/224/3221228578/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221227473/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221228194/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221227433/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221228079/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221227629/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221228398/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221227667/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221227750/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221227205/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221228084/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221227304/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221228848/index.m3u8
+http://itv.uat.news/TVOD/1000000001000031433/ystenlive/index.m3u8
+http://itv.uat.news/TVOD/6000000001000001070/wasusyt/index.m3u8
+http://itv.uat.news/TVOD/5000000004000008888/bestzb/index.m3u8
+http://itv.uat.news/TVOD/1000000005000265008/ystenlive/index.m3u8
+http://itv.uat.news/TVOD/1000000001000003736/ystenlive/index.m3u8
+http://itv.uat.news/TVOD/5000000010000018377/bestzb/index.m3u8
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/CCTV9.png" group-title="央视频道",CCTV-9 纪录
-http://ott.mobaibox.com/PLTV/3/224/3221228758/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221227614/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221227659/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221227704/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221228619/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221225532/index.m3u8
+http://itv.uat.news/TVOD/1000000001000014583/ystenlive/index.m3u8
+http://itv.uat.news/TVOD/6000000001000032162/wasusyt/index.m3u8
+http://itv.uat.news/TVOD/1000000005000265009/ystenlive/index.m3u8
+http://itv.uat.news/TVOD/1000000001000028286/ystenlive/index.m3u8
+http://itv.uat.news/TVOD/5000000010000018384/bestzb/index.m3u8
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/CCTV10.png" group-title="央视频道",CCTV-10 科教
-http://ott.mobaibox.com/PLTV/3/224/3221227620/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221228654/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221227717/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221228761/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221225550/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221227317/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221228762/index.m3u8
+http://itv.uat.news/TVOD/1000000001000023734/ystenlive/index.m3u8
+http://itv.uat.news/TVOD/6000000001000031506/wasusyt/index.m3u8
+http://itv.uat.news/TVOD/5000000004000012827/bestzb/index.m3u8
+http://itv.uat.news/TVOD/1000000005000265010/ystenlive/index.m3u8
+http://itv.uat.news/TVOD/1000000001000026367/ystenlive/index.m3u8
+http://itv.uat.news/TVOD/5000000010000016738/bestzb/index.m3u8
 #EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/CCTV11.png" group-title="央视频道",CCTV-11 戏曲
-http://ott.mobaibox.com/PLTV/3/224/3221227720/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221228748/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221227384/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221227524/index.m3u8
+http://itv.uat.news/TVOD/5000000011000031106/bestzb/index.m3u8
+http://itv.uat.news/TVOD/1000000005000265011/ystenlive/index.m3u8
+http://itv.uat.news/TVOD/1000000002000019789/ystenlive/index.m3u8
+http://itv.uat.news/TVOD/5000000006000040011/bestzb/index.m3u8
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/CCTV12.png" group-title="央视频道",CCTV-12 社会与法
-http://ott.mobaibox.com/PLTV/3/224/3221228657/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221227637/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221227655/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221228551/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221228630/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221228646/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221225556/index.m3u8
+http://itv.uat.news/TVOD/1000000001000032494/ystenlive/index.m3u8
+http://itv.uat.news/TVOD/6000000001000022586/wasusyt/index.m3u8
+http://itv.uat.news/TVOD/5000000011000031107/bestzb/index.m3u8
+http://itv.uat.news/TVOD/1000000005000265012/ystenlive/index.m3u8
+http://itv.uat.news/TVOD/1000000001000001640/ystenlive/index.m3u8
+http://itv.uat.news/TVOD/5000000006000040012/bestzb/index.m3u8
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/CCTV13.png" group-title="央视频道",CCTV-13 新闻
-http://ott.mobaibox.com/PLTV/3/224/3221227387/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221225560/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221228224/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221228324/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221228649/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221228121/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221228660/index.m3u8
+http://itv.uat.news/TVOD/5000000011000031108/bestzb/index.m3u8
+http://itv.uat.news/TVOD/1000000002000021303/ystenlive/index.m3u8
+http://itv.uat.news/TVOD/5000000005000001827/bestzb/index.m3u8
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/CCTV14.png" group-title="央视频道",CCTV-14 少儿
-http://ott.mobaibox.com/PLTV/3/224/3221227693/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221228633/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221227656/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221227201/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221228636/index.m3u8
+http://itv.uat.news/TVOD/1000000001000008170/ystenlive/index.m3u8
+http://itv.uat.news/TVOD/6000000001000013647/wasusyt/index.m3u8
+http://itv.uat.news/TVOD/5000000004000006673/bestzb/index.m3u8
+http://itv.uat.news/TVOD/1000000005000265013/ystenlive/index.m3u8
+http://itv.uat.news/TVOD/1000000001000021349/ystenlive/index.m3u8
+http://itv.uat.news/TVOD/5000000010000023358/bestzb/index.m3u8
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/CCTV15.png" group-title="央视频道",CCTV-15 音乐
-http://ott.mobaibox.com/PLTV/3/224/3221228622/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221227723/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221227538/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221228639/index.m3u8
+http://itv.uat.news/TVOD/5000000011000031109/bestzb/index.m3u8
+http://itv.uat.news/TVOD/1000000005000265014/ystenlive/index.m3u8
+http://itv.uat.news/TVOD/1000000002000008163/ystenlive/index.m3u8
+http://itv.uat.news/TVOD/5000000005000018417/bestzb/index.m3u8
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/CCTV16.png" group-title="央视频道",CCTV-16 奥林匹克
-http://ott.mobaibox.com/PLTV/3/224/3221228314/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221228168/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221228112/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221228144/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221228760/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221228320/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221228625/index.m3u8
+http://itv.uat.news/TVOD/5000000008000023254/bestzb/index.m3u8
+http://itv.uat.news/TVOD/5000000008000023253/bestzb/index.m3u8
+http://itv.uat.news/TVOD/1000000006000233002/ystenlive/index.m3u8
+http://itv.uat.news/TVOD/1000000006000233001/ystenlive/index.m3u8
+http://itv.uat.news/TVOD/2000000003000000059/hnbblive/index.m3u8
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/CCTV17.png" group-title="央视频道",CCTV-17 农业农村
-http://ott.mobaibox.com/PLTV/3/224/3221227592/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221228642/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221227726/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221228628/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221227589/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221227578/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221228866/index.m3u8
-#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/CCTV4K.png" group-title="央视频道",CCTV-4K 超高清
-http://ott.mobaibox.com/PLTV/3/224/3221228472/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8
-#EXTINF:-1 tvg-name="CCTV8K" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/CCTV8K.png" group-title="央视频道",CCTV-8K 超高清
-http://ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8
-#EXTINF:-1 tvg-name="第一剧场" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/CCTV第一剧场.png" group-title="央视频道",CCTV-第一剧场
-http://ott.mobaibox.com/PLTV/3/224/3221228659/index.m3u8
-#EXTINF:-1 tvg-name="怀旧剧场" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/CCTV怀旧剧场.png" group-title="央视频道",CCTV-怀旧剧场
-http://ott.mobaibox.com/PLTV/3/224/3221228671/index.m3u8
-#EXTINF:-1 tvg-name="风云剧场" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/CCTV风云剧场.png" group-title="央视频道",CCTV-风云剧场
-http://ott.mobaibox.com/PLTV/3/224/3221228662/index.m3u8
-#EXTINF:-1 tvg-name="风云音乐" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/CCTV风云音乐.png" group-title="央视频道",CCTV-风云音乐
-http://ott.mobaibox.com/PLTV/3/224/3221228665/index.m3u8
-#EXTINF:-1 tvg-name="风云足球" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/CCTV风云足球.png" group-title="央视频道",CCTV-风云足球
-http://ott.mobaibox.com/PLTV/3/224/3221228668/index.m3u8
-#EXTINF:-1 tvg-name="高尔夫网球" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/CCTV高尔夫网球.png" group-title="央视频道",CCTV-高尔夫·网球
-http://ott.mobaibox.com/PLTV/3/224/3221228138/index.m3u8
-#EXTINF:-1 tvg-name="女性时尚" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/CCTV女性时尚.png" group-title="央视频道",CCTV-女性时尚
-http://ott.mobaibox.com/PLTV/3/224/3221228674/index.m3u8
-#EXTINF:-1 tvg-name="世界地理" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/CCTV世界地理.png" group-title="央视频道",CCTV-世界地理
-http://ott.mobaibox.com/PLTV/3/224/3221228680/index.m3u8
-#EXTINF:-1 tvg-name="央视台球" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/CCTV央视台球.png" group-title="央视频道",CCTV-央视台球
-http://ott.mobaibox.com/PLTV/3/224/3221228683/index.m3u8
-#EXTINF:-1 tvg-name="央视文化精品" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/CCTV央视文化精品.png" group-title="央视频道",CCTV-央视文化精品
-http://ott.mobaibox.com/PLTV/3/224/3221228677/index.m3u8
-#EXTINF:-1 tvg-name="兵器科技" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/CCTV兵器科技.png" group-title="央视频道",CCTV-兵器科技
-http://ott.mobaibox.com/PLTV/3/224/3221228686/index.m3u8
-#EXTINF:-1 tvg-name="电视指南" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/CCTV电视指南.png" group-title="央视频道",CCTV-电视指南
-http://ott.mobaibox.com/PLTV/3/224/3221228689/index.m3u8
-#EXTINF:-1 tvg-name="早期教育" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/CETV早期教育.png" group-title="央视频道",CETV-早期教育
-http://ott.mobaibox.com/PLTV/3/224/3221228692/index.m3u8
+http://itv.uat.news/TVOD/1000000006000268004/ystenlive/index.m3u8
+http://itv.uat.news/TVOD/1000000005000265015/ystenlive/index.m3u8
+http://itv.uat.news/TVOD/1000000005000056836/ystenlive/index.m3u8
+http://itv.uat.news/TVOD/2000000003000000038/hnbblive/index.m3u8
 #EXTINF:-1 tvg-name="CETV1" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/CETV1.png" group-title="央视频道",CETV-1
 http://itv.uat.news/TVOD/5000000002000002652/bestzb/index.m3u8
 #EXTINF:-1 tvg-name="CETV4" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/CETV4.png" group-title="央视频道",CETV-4
@@ -228,308 +126,156 @@ http://itv.uat.news/TVOD/7114647837765104058/hnbblive/index.m3u8
 
 #卫视频道
 #EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/安徽卫视.png" group-title="卫视频道",安徽卫视
-http://ott.mobaibox.com/PLTV/3/224/3221227558/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221227498/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221227643/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221228327/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221228153/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221227653/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221227759/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221225634/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221228645/index.m3u8
+http://itv.uat.news/TVOD/1000000001000030159/ystenlive/index.m3u8
+http://itv.uat.news/TVOD/6000000001000009954/wasusyt/index.m3u8
+http://itv.uat.news/TVOD/5000000004000023002/bestzb/index.m3u8
+http://itv.uat.news/TVOD/1000000005000265025/ystenlive/index.m3u8
+http://itv.uat.news/TVOD/1000000001000020780/ystenlive/index.m3u8
+http://itv.uat.news/TVOD/5000000001000027288/bestzb/index.m3u8
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/北京卫视.png" group-title="卫视频道",北京卫视
-http://ott.mobaibox.com/PLTV/3/224/3221227508/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221227436/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221228410/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221228115/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221227652/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221227694/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221227246/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221227390/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221228807/index.m3u8
+http://itv.uat.news/TVOD/1000000001000021288/ystenlive/index.m3u8
+http://itv.uat.news/TVOD/6000000001000020451/wasusyt/index.m3u8
+http://itv.uat.news/TVOD/5000000004000031556/bestzb/index.m3u8
+http://itv.uat.news/TVOD/1000000005000265027/ystenlive/index.m3u8
+http://itv.uat.news/TVOD/1000000001000017156/ystenlive/index.m3u8
+http://itv.uat.news/TVOD/5000000010000011502/bestzb/index.m3u8
 #EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/重庆卫视.png" group-title="卫视频道",重庆卫视
-http://ott.mobaibox.com/PLTV/3/224/3221228133/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221227729/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221227550/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221227632/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221228651/index.m3u8
+http://itv.uat.news/TVOD/1000000001000001096/ystenlive/index.m3u8
+http://itv.uat.news/TVOD/5000000004000025797/bestzb/index.m3u8
+http://itv.uat.news/TVOD/1000000005000265017/ystenlive/index.m3u8
+http://itv.uat.news/TVOD/1000000002000018937/ystenlive/index.m3u8
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/东方卫视.png" group-title="卫视频道",东方卫视
-http://ott.mobaibox.com/PLTV/3/224/3221227511/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221227208/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221227486/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221227635/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221228150/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221228425/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221227674/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221227732/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221227597/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221227688/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221227396/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221228504/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221228842/index.m3u8
+http://itv.uat.news/TVOD/5000000004000014098/bestzb/index.m3u8
+http://itv.uat.news/TVOD/6000000001000003639/wasusyt/index.m3u8
+http://itv.uat.news/TVOD/1000000001000005866/ystenlive/index.m3u8
+http://itv.uat.news/TVOD/1000000001000016545/ystenlive/index.m3u8
+http://itv.uat.news/TVOD/1000000005000265018/ystenlive/index.m3u8
+http://itv.uat.news/TVOD/1000000005000265021/ystenlive/index.m3u8
+http://itv.uat.news/TVOD/1000000001000030202/ystenlive/index.m3u8
+http://itv.uat.news/TVOD/1000000001000010606/ystenlive/index.m3u8
+http://itv.uat.news/TVOD/5000000010000032246/bestzb/index.m3u8
 #EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/东南卫视.png" group-title="卫视频道",东南卫视
-http://ott.mobaibox.com/PLTV/3/224/3221227670/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221227553/index.m3u8
+http://itv.uat.news/TVOD/5000000004000010584/bestzb/index.m3u8
+http://itv.uat.news/TVOD/1000000005000265033/ystenlive/index.m3u8
+http://itv.uat.news/TVOD/1000000002000009263/ystenlive/index.m3u8
+http://itv.uat.news/TVOD/5000000001000005829/bestzb/index.m3u8
 #EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/甘肃卫视.png" group-title="卫视频道",甘肃卫视
-http://ott.mobaibox.com/PLTV/3/224/3221227568/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221228166/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221228825/index.m3u8
+http://itv.uat.news/TVOD/5000000011000031121/bestzb/index.m3u8
+http://itv.uat.news/TVOD/1000000002000017827/ystenlive/index.m3u8
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/广东卫视.png" group-title="卫视频道",广东卫视
-http://ott.mobaibox.com/PLTV/3/224/3221227476/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221227445/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221228312/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221228230/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221227591/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221227673/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221227691/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221227249/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221227399/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221228566/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221228851/index.m3u8
+http://itv.uat.news/TVOD/5000000004000014694/bestzb/index.m3u8
+http://itv.uat.news/TVOD/6000000001000031076/wasusyt/index.m3u8
+http://itv.uat.news/TVOD/1000000001000014176/ystenlive/index.m3u8
+http://itv.uat.news/TVOD/1000000005000265034/ystenlive/index.m3u8
+http://itv.uat.news/TVOD/1000000001000028357/ystenlive/index.m3u8
+http://itv.uat.news/TVOD/5000000010000030417/bestzb/index.m3u8
 #EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/广西卫视.png" group-title="卫视频道",广西卫视
-http://ott.mobaibox.com/PLTV/3/224/3221228183/index.m3u8
+http://itv.uat.news/TVOD/5000000011000031118/bestzb/index.m3u8
+http://itv.uat.news/TVOD/1000000002000019837/ystenlive/index.m3u8
 #EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/贵州卫视.png" group-title="卫视频道",贵州卫视
-http://ott.mobaibox.com/PLTV/3/224/3221228136/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221227551/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221228634/index.m3u8
+http://itv.uat.news/TVOD/5000000004000025843/bestzb/index.m3u8
+http://itv.uat.news/TVOD/1000000002000003169/ystenlive/index.m3u8
 #EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/海南卫视.png" group-title="卫视频道",海南卫视
-http://ott.mobaibox.com/PLTV/3/224/3221228101/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221228139/index.m3u8
+http://itv.uat.news/TVOD/5000000004000006211/bestzb/index.m3u8
+http://itv.uat.news/TVOD/1000000002000023773/ystenlive/index.m3u8
 #EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/河北卫视.png" group-title="卫视频道",河北卫视
-http://ott.mobaibox.com/PLTV/3/224/3221228106/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221227545/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221228752/index.m3u8
+http://itv.uat.news/TVOD/5000000006000040016/bestzb/index.m3u8
+http://itv.uat.news/TVOD/1000000002000017118/ystenlive/index.m3u8
 #EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/河南卫视.png" group-title="卫视频道",河南卫视
-http://ott.mobaibox.com/PLTV/3/224/3221228221/index.m3u8
+http://itv.uat.news/TVOD/5000000011000031119/bestzb/index.m3u8
+http://itv.uat.news/TVOD/5000000005000017925/bestzb/index.m3u8
 #EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/黑龙江卫视.png" group-title="卫视频道",黑龙江卫视
-http://ott.mobaibox.com/PLTV/3/224/3221227514/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221227492/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221227638/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221228295/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221228233/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221227662/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221227753/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221227252/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221227323/index.m3u8
+http://itv.uat.news/TVOD/5000000004000025203/bestzb/index.m3u8
+http://itv.uat.news/TVOD/1000000001000001925/ystenlive/index.m3u8
+http://itv.uat.news/TVOD/6000000001000016510/wasusyt/index.m3u8
+http://itv.uat.news/TVOD/1000000005000265029/ystenlive/index.m3u8
+http://itv.uat.news/TVOD/1000000001000009082/ystenlive/index.m3u8
+http://itv.uat.news/TVOD/5000000010000031107/bestzb/index.m3u8
 #EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/湖北卫视.png" group-title="卫视频道",湖北卫视
-http://ott.mobaibox.com/PLTV/3/224/3221227479/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221227495/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221228159/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221227665/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221227565/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221227703/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221227211/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221227377/index.m3u8
+http://itv.uat.news/TVOD/1000000001000024621/ystenlive/index.m3u8
+http://itv.uat.news/TVOD/6000000001000015436/wasusyt/index.m3u8
+http://itv.uat.news/TVOD/5000000004000014954/bestzb/index.m3u8
+http://itv.uat.news/TVOD/1000000005000265023/ystenlive/index.m3u8
+http://itv.uat.news/TVOD/5000000010000022140/bestzb/index.m3u8
+http://itv.uat.news/TVOD/1000000001000010355/ystenlive/index.m3u8
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/湖南卫视.png" group-title="卫视频道",湖南卫视
-http://ott.mobaibox.com/PLTV/3/224/3221227482/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221227404/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221228413/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221228227/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221227735/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221227220/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221227698/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221228810/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221227320/index.m3u8
+http://itv.uat.news/TVOD/1000000001000032695/ystenlive/index.m3u8
+http://itv.uat.news/TVOD/5000000004000006692/bestzb/index.m3u8
+http://itv.uat.news/TVOD/6000000001000018044/wasusyt/index.m3u8
+http://itv.uat.news/TVOD/1000000005000265024/ystenlive/index.m3u8
+http://itv.uat.news/TVOD/1000000001000009115/ystenlive/index.m3u8
+http://itv.uat.news/TVOD/5000000010000030452/bestzb/index.m3u8
 #EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/吉林卫视.png" group-title="卫视频道",吉林卫视
-http://ott.mobaibox.com/PLTV/3/224/3221228130/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221228792/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221228028/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221228631/index.m3u8
+http://itv.uat.news/TVOD/5000000011000031117/bestzb/index.m3u8
+http://itv.uat.news/TVOD/1000000002000027730/ystenlive/index.m3u8
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/江苏卫视.png" group-title="卫视频道",江苏卫视
-http://ott.mobaibox.com/PLTV/3/224/3221227552/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221228097/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221227439/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221228099/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221228306/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221228735/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221228738/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221228741/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221228744/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221228747/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221228750/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221228803/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221227668/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221227689/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221227255/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221227529/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221227573/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221227582/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221227585/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221227649/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221227702/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221227715/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221228533/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221228778/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221227402/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221227705/index.m3u8
+http://itv.uat.news/TVOD/1000000001000001828/ystenlive/index.m3u8
+http://itv.uat.news/TVOD/6000000001000014861/wasusyt/index.m3u8
+http://itv.uat.news/TVOD/5000000004000019351/bestzb/index.m3u8
+http://itv.uat.news/TVOD/1000000005000265030/ystenlive/index.m3u8
+http://itv.uat.news/TVOD/5000000010000018509/bestzb/index.m3u8
+http://itv.uat.news/TVOD/1000000001000004684/ystenlive/index.m3u8
 #EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/江西卫视.png" group-title="卫视频道",江西卫视
-http://ott.mobaibox.com/PLTV/3/224/3221228109/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221227738/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221225536/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221228749/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221228765/index.m3u8
+http://itv.uat.news/TVOD/1000000006000268001/ystenlive/index.m3u8
+http://itv.uat.news/TVOD/5000000004000011210/bestzb/index.m3u8
+http://itv.uat.news/TVOD/1000000005000265032/ystenlive/index.m3u8
+http://itv.uat.news/TVOD/1000000001000013731/ystenlive/index.m3u8
+http://itv.uat.news/TVOD/5000000001000032154/bestzb/index.m3u8
 #EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/辽宁卫视.png" group-title="卫视频道",辽宁卫视
-http://ott.mobaibox.com/PLTV/3/224/3221227485/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221227410/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221228310/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221228162/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221227676/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221227700/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221227380/index.m3u8
+http://itv.uat.news/TVOD/5000000004000011671/bestzb/index.m3u8
+http://itv.uat.news/TVOD/1000000001000001945/ystenlive/index.m3u8
+http://itv.uat.news/TVOD/1000000005000265022/ystenlive/index.m3u8
+http://itv.uat.news/TVOD/5000000001000008940/bestzb/index.m3u8
+http://itv.uat.news/TVOD/1000000002000024033/ystenlive/index.m3u8
 #EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/青海卫视.png" group-title="卫视频道",青海卫视
-http://ott.mobaibox.com/PLTV/3/224/3221227554/index.m3u8
+http://itv.uat.news/TVOD/1000000002000013359/ystenlive/index.m3u8
 #EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/山东卫视.png" group-title="卫视频道",山东卫视
-http://ott.mobaibox.com/PLTV/3/224/3221227517/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221227258/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221227448/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221228315/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221228124/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221227671/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221227621/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221227697/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221227310/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221228560/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221228751/index.m3u8
+http://itv.uat.news/TVOD/1000000001000016568/ystenlive/index.m3u8
+http://itv.uat.news/TVOD/6000000001000004134/wasusyt/index.m3u8
+http://itv.uat.news/TVOD/5000000004000020424/bestzb/index.m3u8
+http://itv.uat.news/TVOD/1000000005000265019/ystenlive/index.m3u8
+http://itv.uat.news/TVOD/1000000001000012807/ystenlive/index.m3u8
+http://itv.uat.news/TVOD/5000000010000027763/bestzb/index.m3u8
 #EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/四川卫视.png" group-title="卫视频道",四川卫视
-http://ott.mobaibox.com/PLTV/3/224/3221228171/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221227556/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221228648/index.m3u8
+http://itv.uat.news/TVOD/5000000004000006119/bestzb/index.m3u8
+http://itv.uat.news/TVOD/1000000002000016825/ystenlive/index.m3u8
 #EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/天津卫视.png" group-title="卫视频道",天津卫视
-http://ott.mobaibox.com/PLTV/3/224/3221227488/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221227407/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221228416/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221228239/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221227741/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221227756/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221227633/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221227212/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221227382/index.m3u8
-#EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/新疆卫视.png" group-title="卫视频道",新疆卫视
-http://ott.mobaibox.com/PLTV/3/224/3221228290/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221228796/index.m3u8
+http://itv.uat.news/TVOD/6000000001000009186/wasusyt/index.m3u8
+http://itv.uat.news/TVOD/5000000004000006827/bestzb/index.m3u8
+http://itv.uat.news/TVOD/1000000001000003475/ystenlive/index.m3u8
+http://itv.uat.news/TVOD/1000000005000265026/ystenlive/index.m3u8
+http://itv.uat.news/TVOD/1000000001000000831/ystenlive/index.m3u8
+http://itv.uat.news/TVOD/5000000001000030788/bestzb/index.m3u8
 #EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/云南卫视.png" group-title="卫视频道",云南卫视
-http://ott.mobaibox.com/PLTV/3/224/3221227571/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221228169/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221228819/index.m3u8
+http://itv.uat.news/TVOD/5000000011000031120/bestzb/index.m3u8
+http://itv.uat.news/TVOD/1000000002000024694/ystenlive/index.m3u8
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/浙江卫视.png" group-title="卫视频道",浙江卫视
-http://ott.mobaibox.com/PLTV/3/224/3221227491/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221228147/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221228204/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221228309/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221227744/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221227692/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221227215/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221227393/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221228784/index.m3u8
+http://itv.uat.news/TVOD/1000000001000014260/ystenlive/index.m3u8
+http://itv.uat.news/TVOD/6000000001000032070/wasusyt/index.m3u8
+http://itv.uat.news/TVOD/5000000004000007275/bestzb/index.m3u8
+http://itv.uat.news/TVOD/1000000005000265031/ystenlive/index.m3u8
+http://itv.uat.news/TVOD/5000000010000017320/bestzb/index.m3u8
+http://itv.uat.news/TVOD/1000000001000009806/ystenlive/index.m3u8
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/深圳卫视.png" group-title="卫视频道",深圳卫视
-http://ott.mobaibox.com/PLTV/3/224/3221227555/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221227442/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221227217/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221228236/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221227677/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221227695/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221227624/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221227307/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221228569/index.m3u8
+http://itv.uat.news/TVOD/5000000004000007410/bestzb/index.m3u8
+http://itv.uat.news/TVOD/6000000001000002116/wasusyt/index.m3u8
+http://itv.uat.news/TVOD/1000000001000009227/ystenlive/index.m3u8
+http://itv.uat.news/TVOD/1000000005000265028/ystenlive/index.m3u8
+http://itv.uat.news/TVOD/1000000001000011645/ystenlive/index.m3u8
+http://itv.uat.news/TVOD/5000000010000024026/bestzb/index.m3u8
 #EXTINF:-1 tvg-name="三沙卫视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/三沙卫视.png" group-title="卫视频道",三沙卫视
-http://ott.mobaibox.com/PLTV/3/224/3221228626/index.m3u8
+http://itv.uat.news/TVOD/5000000011000288016/bestzb/index.m3u8
 #EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/西藏卫视.png" group-title="卫视频道",西藏卫视
 http://php.jdshipin.com:8880/xztv.php?id=ws
 
-#江苏地方
-#EXTINF:-1 tvg-name="江苏城市" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/江苏城市.png" group-title="江苏地方",江苏城市
-http://ott.mobaibox.com/PLTV/3/224/3221228734/index.m3u8
-#EXTINF:-1 tvg-name="江苏新闻" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/江苏新闻.png" group-title="江苏地方",江苏新闻
-http://ott.mobaibox.com/PLTV/3/224/3221228743/index.m3u8
-#EXTINF:-1 tvg-name="江苏综艺" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/江苏综艺.png" group-title="江苏地方",江苏综艺
-http://ott.mobaibox.com/PLTV/3/224/3221228731/index.m3u8
-#EXTINF:-1 tvg-name="江苏影视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/江苏影视.png" group-title="江苏地方",江苏影视
-http://ott.mobaibox.com/PLTV/3/224/3221228728/index.m3u8
-#EXTINF:-1 tvg-name="江苏教育" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/江苏教育.png" group-title="江苏地方",江苏教育
-http://ott.mobaibox.com/PLTV/3/224/3221228613/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221228769/index.m3u8
-#EXTINF:-1 tvg-name="江苏体育休闲" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/江苏体育休闲.png" group-title="江苏地方",江苏体育•休闲
-http://ott.mobaibox.com/PLTV/3/224/3221228746/index.m3u8
-#EXTINF:-1 tvg-name="南京少儿" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/南京少儿.png" group-title="江苏地方",南京少儿
-http://ott.mobaibox.com/PLTV/3/224/3221227733/index.m3u8
-#EXTINF:-1 tvg-name="南京教科" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/南京教科.png" group-title="江苏地方",南京教科
-http://ott.mobaibox.com/PLTV/3/224/3221227194/index.m3u8
-#EXTINF:-1 tvg-name="南京影视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/南京影视.png" group-title="江苏地方",南京影视
-http://ott.mobaibox.com/PLTV/3/224/3221227719/index.m3u8
-#EXTINF:-1 tvg-name="南京文旅纪录" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/南京文旅纪录.png" group-title="江苏地方",南京文旅纪录
-http://ott.mobaibox.com/PLTV/3/224/3221227722/index.m3u8
-#EXTINF:-1 tvg-name="南京新闻综合" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/南京新闻综合.png" group-title="江苏地方",南京新闻综合
-http://ott.mobaibox.com/PLTV/3/224/3221227213/index.m3u8
-#EXTINF:-1 tvg-name="南京十八生活" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/南京十八生活.png" group-title="江苏地方",南京十八•生活
-http://ott.mobaibox.com/PLTV/3/224/3221227178/index.m3u8
-#EXTINF:-1 tvg-name="无锡新闻综合" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/无锡新闻综合.png" group-title="江苏地方",无锡新闻综合
-http://ott.mobaibox.com/PLTV/3/224/3221228103/index.m3u8
-#EXTINF:-1 tvg-name="常州新闻综合" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/常州新闻综合.png" group-title="江苏地方",常州新闻综合
-http://ott.mobaibox.com/PLTV/3/224/3221227752/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221227899/index.m3u8
-#EXTINF:-1 tvg-name="常州都市" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/常州都市.png" group-title="江苏地方",常州都市
-http://ott.mobaibox.com/PLTV/3/224/3221227755/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221227955/index.m3u8
-#EXTINF:-1 tvg-name="常州生活" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/常州生活.png" group-title="江苏地方",常州生活
-http://ott.mobaibox.com/PLTV/3/224/3221227816/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221227902/index.m3u8
-#EXTINF:-1 tvg-name="常州公共" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/常州公共.png" group-title="江苏地方",常州公共
-http://ott.mobaibox.com/PLTV/3/224/3221227772/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221227905/index.m3u8
-#EXTINF:-1 tvg-name="南通新闻综合" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/南通新闻综合.png" group-title="江苏地方",南通新闻综合
-http://ott.mobaibox.com/PLTV/3/224/3221228462/index.m3u8
-#EXTINF:-1 tvg-name="南通社教" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/南通2.png" group-title="江苏地方",南通社教
-http://ott.mobaibox.com/PLTV/3/224/3221228448/index.m3u8
-#EXTINF:-1 tvg-name="南通公共崇川" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/南通公共崇川.png" group-title="江苏地方",南通公共•崇川
-http://ott.mobaibox.com/PLTV/3/224/3221228451/index.m3u8
-#EXTINF:-1 tvg-name="扬州江都台" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/扬州江都台.png" group-title="江苏地方",扬州江都台
-http://ott.mobaibox.com/PLTV/3/224/3221228323/index.m3u8
-#EXTINF:-1 tvg-name="镇江新闻综合" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/镇江新闻综合.png" group-title="江苏地方",镇江新闻综合
-http://ott.mobaibox.com/PLTV/3/224/3221228246/index.m3u8
-#EXTINF:-1 tvg-name="镇江社会民生" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/镇江2.png" group-title="江苏地方",镇江社会民生
-http://ott.mobaibox.com/PLTV/3/224/3221227325/index.m3u8
-#EXTINF:-1 tvg-name="镇江城市资讯" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/镇江3.png" group-title="江苏地方",镇江城市资讯
-http://ott.mobaibox.com/PLTV/3/224/3221228208/index.m3u8
-#EXTINF:-1 tvg-name="泰州一套" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/泰州1.png" group-title="江苏地方",泰州新闻综合
-http://ott.mobaibox.com/PLTV/3/224/3221228209/index.m3u8
-#EXTINF:-1 tvg-name="泰州二套" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/泰州2.png" group-title="江苏地方",泰州教育频道
-http://ott.mobaibox.com/PLTV/3/224/3221228212/index.m3u8
-#EXTINF:-1 tvg-name="泰州三套" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/泰州3.png" group-title="江苏地方",泰州公共频道
-http://ott.mobaibox.com/PLTV/3/224/3221228100/index.m3u8
-#EXTINF:-1 tvg-name="徐州新闻综合" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/徐州1.png" group-title="江苏地方",徐州新闻综合
-http://ott.mobaibox.com/PLTV/3/224/3221225945/index.m3u8
-#EXTINF:-1 tvg-name="徐州经济生活" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/徐州2.png" group-title="江苏地方",徐州经济生活
-http://ott.mobaibox.com/PLTV/3/224/3221225947/index.m3u8
-#EXTINF:-1 tvg-name="徐州文艺影视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/徐州3.png" group-title="江苏地方",徐州文艺影视
-http://ott.mobaibox.com/PLTV/3/224/3221225949/index.m3u8
-#EXTINF:-1 tvg-name="徐州公共频道" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/徐州4.png" group-title="江苏地方",徐州公共频道
-http://ott.mobaibox.com/PLTV/3/224/3221225951/index.m3u8
-#EXTINF:-1 tvg-name="淮安综合" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/淮安综合.png" group-title="江苏地方",淮安综合
-http://ott.mobaibox.com/PLTV/3/224/3221228834/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221228215/index.m3u8
-#EXTINF:-1 tvg-name="淮安公共" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/淮安公共.png" group-title="江苏地方",淮安公共
-http://ott.mobaibox.com/PLTV/3/224/3221228840/index.m3u8
-#EXTINF:-1 tvg-name="淮安影视娱乐" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/淮安影视娱乐.png" group-title="江苏地方",淮安影视娱乐
-http://ott.mobaibox.com/PLTV/3/224/3221228837/index.m3u8
-#EXTINF:-1 tvg-name="连云港新闻综合" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/连云港新闻综合.png" group-title="江苏地方",连云港新闻综合
-http://ott.mobaibox.com/PLTV/3/224/3221227758/index.m3u8
-#EXTINF:-1 tvg-name="连云港生活频道" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/连云港生活频道.png" group-title="江苏地方",连云港生活频道
-http://ott.mobaibox.com/PLTV/3/224/3221227819/index.m3u8
-#EXTINF:-1 tvg-name="盐城新闻综合" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/盐城1.png" group-title="江苏地方",盐城新闻综合
-http://ott.mobaibox.com/PLTV/3/224/3221228435/index.m3u8
-#EXTINF:-1 tvg-name="盐城法制生活" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/盐城2.png" group-title="江苏地方",盐城法制生活
-http://ott.mobaibox.com/PLTV/3/224/3221228433/index.m3u8
-#EXTINF:-1 tvg-name="盐城城市公共" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/盐城3.png" group-title="江苏地方",盐城城市公共
-http://ott.mobaibox.com/PLTV/3/224/3221228436/index.m3u8
-#EXTINF:-1 tvg-name="宿迁综合" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/宿迁综合.png" group-title="江苏地方",宿迁综合
-http://ott.mobaibox.com/PLTV/3/224/3221226944/index.m3u8
-#EXTINF:-1 tvg-name="宿迁公共" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/宿迁公共.png" group-title="江苏地方",宿迁公共
-http://ott.mobaibox.com/PLTV/3/224/3221226939/index.m3u8
-
 #北京地方
 #EXTINF:-1 tvg-name="北京纪实科教" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/北京纪实科教.png" group-title="北京地方",纪实科教
-http://ott.mobaibox.com/PLTV/3/224/3221227699/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221228755/index.m3u8
+http://itv.uat.news/TVOD/1000000001000001910/ystenlive/index.m3u8
+http://itv.uat.news/TVOD/5000000011000031204/bestzb/index.m3u8
+http://itv.uat.news/TVOD/2000000002000000065/hnbblive/index.m3u8
+http://itv.uat.news/TVOD/1000000005000265020/ystenlive/index.m3u8
+http://itv.uat.news/TVOD/2000000003000000026/hnbblive/index.m3u8
+http://itv.uat.news/TVOD/1000000001000028380/ystenlive/index.m3u8
 #EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/北京卡酷少儿.png" group-title="北京地方",卡酷少儿
 http://itv.uat.news/TVOD/7851974109718180595/bestzb/index.m3u8
 http://itv.uat.news/TVOD/5000000011000265008/bestzb/index.m3u8
@@ -643,50 +389,74 @@ http://php.jdshipin.com/TVOD/hljyd.php?id=3221226434
 
 #NewTV
 #EXTINF:-1 tvg-name="newtv炫舞未来" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/NewTV炫舞未来.png" group-title="NewTV",炫舞未来
-http://ott.mobaibox.com/PLTV/3/224/3221227475/index.m3u8
-#EXTINF:-1 tvg-name="newtv热播精选" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/NewTV热播精选.png" group-title="NewTV",热播精选
-http://ott.mobaibox.com/PLTV/3/224/3221227512/index.m3u8
+http://itv.uat.news/TVOD/1000000001000000515/ystenlive/index.m3u8
+http://itv.uat.news/TVOD/2000000003000000044/hnbblive/index.m3u8
 #EXTINF:-1 tvg-name="newtv潮妈辣婆" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/NewTV潮妈辣婆.png" group-title="NewTV",潮妈辣婆
-http://ott.mobaibox.com/PLTV/3/224/3221227527/index.m3u8
+http://itv.uat.news/TVOD/6516734029835465177/ystenlive/index.m3u8
+http://itv.uat.news/TVOD/2000000003000000018/hnbblive/index.m3u8
 #EXTINF:-1 tvg-name="newtv中国功夫" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/NewTV中国功夫.png" group-title="NewTV",中国功夫
-http://ott.mobaibox.com/PLTV/3/224/3221227530/index.m3u8
+http://itv.uat.news/TVOD/2000000003000000009/hnbblive/index.m3u8
+http://itv.uat.news/TVOD/5897056882324761054/ystenlive/index.m3u8
 #EXTINF:-1 tvg-name="newtv武搏世界" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/NewTV武搏世界.png" group-title="NewTV",武搏世界
-http://ott.mobaibox.com/PLTV/3/224/3221227533/index.m3u8
+http://itv.uat.news/TVOD/2000000003000000007/hnbblive/index.m3u8
+http://itv.uat.news/TVOD/bokesen/ystenlive/index.m3u8
 #EXTINF:-1 tvg-name="newtv惊悚悬疑" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/NewTV惊悚悬疑.png" group-title="NewTV",惊悚悬疑
-http://ott.mobaibox.com/PLTV/3/224/3221227536/index.m3u8
+http://itv.uat.news/TVOD/1000000004000024282/ystenlive/index.m3u8
+http://itv.uat.news/TVOD/7151256057701199617/ystenlive/index.m3u8
+http://itv.uat.news/TVOD/2000000003000000015/hnbblive/index.m3u8
 #EXTINF:-1 tvg-name="newtv海外剧场" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/NewTV海外剧场.png" group-title="NewTV",海外剧场
-http://ott.mobaibox.com/PLTV/3/224/3221227539/index.m3u8
+http://itv.uat.news/TVOD/7681593242002292003/ystenlive/index.m3u8
+http://itv.uat.news/TVOD/2000000003000000016/hnbblive/index.m3u8
 #EXTINF:-1 tvg-name="newtv金牌综艺" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/NewTV金牌综艺.png" group-title="NewTV",金牌综艺
-http://ott.mobaibox.com/PLTV/3/224/3221227541/index.m3u8
+http://itv.uat.news/TVOD/6399725674632152632/ystenlive/index.m3u8
+http://itv.uat.news/TVOD/1000000004000026167/ystenlive/index.m3u8
+http://itv.uat.news/TVOD/2000000003000000005/hnbblive/index.m3u8
 #EXTINF:-1 tvg-name="newtv古装剧场" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/NewTV古装剧场.png" group-title="NewTV",古装剧场
-http://ott.mobaibox.com/PLTV/3/224/3221227542/index.m3u8
+http://itv.uat.news/TVOD/2000000003000000024/hnbblive/index.m3u8
+http://itv.uat.news/TVOD/6859053933687922163/ystenlive/index.m3u8
 #EXTINF:-1 tvg-name="newtv军事评论" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/NewTV军事评论.png" group-title="NewTV",军事评论
-http://ott.mobaibox.com/PLTV/3/224/3221227544/index.m3u8
+http://itv.uat.news/TVOD/2000000003000000022/hnbblive/index.m3u8
+http://itv.uat.news/TVOD/5822616274253344775/ystenlive/index.m3u8
 #EXTINF:-1 tvg-name="newtv精品纪录" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/NewTV精品纪录.png" group-title="NewTV",精品纪录
-http://ott.mobaibox.com/PLTV/3/224/3221227547/index.m3u8
+http://itv.uat.news/TVOD/6298506997017621594/ystenlive/index.m3u8
+http://itv.uat.news/TVOD/1000000004000013730/ystenlive/index.m3u8
+http://itv.uat.news/TVOD/2000000003000000019/hnbblive/index.m3u8
 #EXTINF:-1 tvg-name="newtv爱情喜剧" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/NewTV爱情喜剧.png" group-title="NewTV",爱情喜剧
-http://ott.mobaibox.com/PLTV/3/224/3221227548/index.m3u8
+http://itv.uat.news/TVOD/8393829412396288037/ystenlive/index.m3u8
+http://itv.uat.news/TVOD/2000000003000000010/hnbblive/index.m3u8
 #EXTINF:-1 tvg-name="newtv农业致富" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/NewTV农业致富.png" group-title="NewTV",农业致富
-http://ott.mobaibox.com/PLTV/3/224/3221227588/index.m3u8
+http://itv.uat.news/TVOD/2000000003000000003/hnbblive/index.m3u8
+http://itv.uat.news/TVOD/6193684637634073625/ystenlive/index.m3u8
 #EXTINF:-1 tvg-name="newtv明星大片" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/NewTV明星大片.png" group-title="NewTV",明星大片
-http://ott.mobaibox.com/PLTV/3/224/3221227594/index.m3u8
+http://itv.uat.news/TVOD/1000000004000019008/ystenlive/index.m3u8
 #EXTINF:-1 tvg-name="newtv家庭剧场" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/NewTV家庭剧场.png" group-title="NewTV",家庭剧场
-http://ott.mobaibox.com/PLTV/3/224/3221227600/index.m3u8
+http://itv.uat.news/TVOD/1000000004000008284/ystenlive/index.m3u8
+http://itv.uat.news/TVOD/6316377948248689070/ystenlive/index.m3u8
+http://itv.uat.news/TVOD/2000000003000000012/hnbblive/index.m3u8
 #EXTINF:-1 tvg-name="newtv军旅剧场" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/NewTV军旅剧场.png" group-title="NewTV",军旅剧场
-http://ott.mobaibox.com/PLTV/3/224/3221227603/index.m3u8
+http://itv.uat.news/TVOD/2000000003000000014/hnbblive/index.m3u8
+http://itv.uat.news/TVOD/7485075951068666323/ystenlive/index.m3u8
 #EXTINF:-1 tvg-name="newtv动作电影" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/NewTV动作电影.png" group-title="NewTV",动作电影
-http://ott.mobaibox.com/PLTV/3/224/3221227606/index.m3u8
+http://itv.uat.news/TVOD/1000000004000018653/ystenlive/index.m3u8
+http://itv.uat.news/TVOD/2000000003000000017/hnbblive/index.m3u8
+http://itv.uat.news/TVOD/8103864434730665389/ystenlive/index.m3u8
 #EXTINF:-1 tvg-name="newtv怡伴健康" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/NewTV怡伴健康.png" group-title="NewTV",怡伴健康
-http://ott.mobaibox.com/PLTV/3/224/3221227612/index.m3u8
+http://itv.uat.news/TVOD/7820874641606664941/ystenlive/index.m3u8
+http://itv.uat.news/TVOD/1000000005000266011/ystenlive/index.m3u8
+http://itv.uat.news/TVOD/2000000003000000023/hnbblive/index.m3u8
 #EXTINF:-1 tvg-name="newtv精品体育" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/NewTV精品体育.png" group-title="NewTV",精品体育
-http://ott.mobaibox.com/PLTV/3/224/3221227615/index.m3u8
+http://itv.uat.news/TVOD/1000000004000014634/ystenlive/index.m3u8
+http://itv.uat.news/TVOD/6460382139625130259/ystenlive/index.m3u8
+http://itv.uat.news/TVOD/2000000003000000021/hnbblive/index.m3u8
 #EXTINF:-1 tvg-name="newtv精品大剧" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/NewTV精品大剧.png" group-title="NewTV",精品大剧
-http://ott.mobaibox.com/PLTV/3/224/3221227618/index.m3u8
+http://itv.uat.news/TVOD/7882297361445410858/ystenlive/index.m3u8
+http://itv.uat.news/TVOD/1000000004000013968/ystenlive/index.m3u8
+http://itv.uat.news/TVOD/2000000003000000020/hnbblive/index.m3u8
 #EXTINF:-1 tvg-name="newtv精品萌宠" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/NewTV精品萌宠.png" group-title="NewTV",精品萌宠
-http://ott.mobaibox.com/PLTV/3/224/3221228430/index.m3u8
+http://itv.uat.news/TVOD/1000000006000032328/ystenlive/index.m3u8
+http://itv.uat.news/TVOD/2000000003000000067/hnbblive/index.m3u8
 #EXTINF:-1 tvg-name="newtv精品综合" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/NewTV精品综合.png" group-title="NewTV",精品综合
 http://itv.uat.news/TVOD/5595720619887440144/ystenlive/index.m3u8
-http://itv.uat.news/TVOD/1000000004000019008/ystenlive/index.m3u8
 #EXTINF:-1 tvg-name="newtv欢乐剧场" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/NewTV欢乐剧场.png" group-title="NewTV",欢乐剧场
 http://itv.uat.news/TVOD/1000000005000266012/ystenlive/index.m3u8
 http://itv.uat.news/TVOD/2000000003000000050/hnbblive/index.m3u8
@@ -718,7 +488,12 @@ http://itv.uat.news/TVOD/1000000005000266014/ystenlive/index.m3u8
 http://itv.uat.news/TVOD/1000000001000006197/ystenlive/index.m3u8
 http://itv.uat.news/TVOD/2000000003000000041/hnbblive/index.m3u8
 #EXTINF:-1 tvg-name="哒啵赛事" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/NewTV哒啵赛事.png" group-title="NewTV",哒啵赛事
-http://ott.mobaibox.com/PLTV/3/224/3221225539/index.m3u8
+http://itv.uat.news/TVOD/5320946857686967621/ystenlive/index.m3u8
+http://itv.uat.news/TVOD/1000000001000003775/ystenlive/index.m3u8
+http://itv.uat.news/TVOD/1000000001000006906/ystenlive/index.m3u8
+http://itv.uat.news/TVOD/2000000003000000004/hnbblive/index.m3u8
+http://itv.uat.news/TVOD/2000000003000000039/hnbblive/index.m3u8
+http://itv.uat.news/TVOD/2000000003000000040/hnbblive/index.m3u8
 #EXTINF:-1 tvg-name="哒啵电竞" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/NewTV哒啵电竞.png" group-title="NewTV",哒啵电竞
 http://itv.uat.news/TVOD/1000000006000032327/ystenlive/index.m3u8
 http://itv.uat.news/TVOD/2000000003000000066/hnbblive/index.m3u8
@@ -816,72 +591,35 @@ http://itv.uat.news/TVOD/6000000002000032344/wasusyt/index.m3u8
 http://itv.uat.news/TVOD/2000000004000000011/hnbblive/index.m3u8
 
 #咪咕频道
-#EXTINF:-1 tvg-name="抖音热歌" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/咪咕音乐.png" group-title="咪咕频道",抖音热歌
-http://ott.mobaibox.com/PLTV/3/224/3221228444/index.m3u8
-#EXTINF:-1 tvg-name="流行音乐" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/咪咕音乐.png" group-title="咪咕频道",流行音乐
-http://ott.mobaibox.com/PLTV/3/224/3221228794/index.m3u8
-#EXTINF:-1 tvg-name="咪咕体育" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/咪咕体育.png" group-title="咪咕频道",咪咕体育
-http://itv.uat.news/TVOD/3000000001000005308/FifastbLive/index.m3u8
 #EXTINF:-1 tvg-name="咪咕视频" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/咪咕视频.png" group-title="咪咕频道",咪咕视频
-http://itv.uat.news/TVOD/3000000001000005969/FifastbLive/index.m3u8
+http://itv.uat.news/TVOD/1000000006000270004/ystenlive/index.m3u8
 #EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/睛彩篮球.png" group-title="咪咕频道",睛彩篮球
-http://ott.mobaibox.com/PLTV/3/224/3221228682/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221228129/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221228234/index.m3u8
+http://itv.uat.news/TVOD/1000000006000270002/ystenlive/index.m3u8
+http://itv.uat.news/TVOD/1000000006000270006/ystenlive/index.m3u8
 #EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/睛彩竞技.png" group-title="咪咕频道",睛彩竞技
-http://ott.mobaibox.com/PLTV/3/224/3221228679/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221228206/index.m3u8
+http://itv.uat.news/TVOD/1000000006000270001/ystenlive/index.m3u8
 #EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/睛彩青少.png" group-title="咪咕频道",睛彩青少
-http://ott.mobaibox.com/PLTV/3/224/3221228729/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221228427/index.m3u8
+http://itv.uat.news/TVOD/1000000006000270007/ystenlive/index.m3u8
+http://itv.uat.news/TVOD/2000000003000000068/hnbblive/index.m3u8
+http://itv.uat.news/TVOD/3000000020000031315/FifastbLive/index.m3u8
 #EXTINF:-1 tvg-name="睛彩广场舞" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/睛彩广场舞.png" group-title="咪咕频道",睛彩广场舞
-http://ott.mobaibox.com/PLTV/3/224/3221228818/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221228231/index.m3u8
+http://itv.uat.news/TVOD/1000000006000270003/ystenlive/index.m3u8
+http://itv.uat.news/TVOD/1000000006000270005/ystenlive/index.m3u8
 
 #数字频道
 #EXTINF:-1 tvg-name="纯享4K" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/纯享4K.png" group-title="数字频道",纯享4K
-http://ott.mobaibox.com/PLTV/3/224/3221227506/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221228242/index.m3u8
-#EXTINF:-1 tvg-name="4K修复" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/4K修复.png" group-title="数字频道",4K修复
-http://ott.mobaibox.com/PLTV/3/224/3221228141/index.m3u8
+http://itv.uat.news/TVOD/1000000004000011651/ystenlive/index.m3u8
 #EXTINF:-1 tvg-name="华数4K" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/华数4K.png" group-title="数字频道",华数4K
 http://itv.uat.news/TVOD/6000000003000004748/wasusyt/index.m3u8
 http://itv.uat.news/TVOD/2000000004000000014/hnbblive/index.m3u8
-#EXTINF:-1 tvg-name="居家健身" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/居家健身.png" group-title="数字频道",居家健身
-http://ott.mobaibox.com/PLTV/3/224/3221228454/index.m3u8
-#EXTINF:-1 tvg-name="百姓生活" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/百姓生活.png" group-title="数字频道",百姓生活
-http://ott.mobaibox.com/PLTV/3/224/3221228466/index.m3u8
-#EXTINF:-1 tvg-name="美食美味" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/美食美味.png" group-title="数字频道",美食美味
-http://ott.mobaibox.com/PLTV/3/224/3221228562/index.m3u8
-#EXTINF:-1 tvg-name="热门综艺" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/热门综艺.png" group-title="数字频道",热门综艺
-http://ott.mobaibox.com/PLTV/3/224/3221228591/index.m3u8
-#EXTINF:-1 tvg-name="音乐心情" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/QQ音乐.png" group-title="数字频道",音乐心情
-http://ott.mobaibox.com/PLTV/3/224/3221228592/index.m3u8
-#EXTINF:-1 tvg-name="影综金曲" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/QQ音乐.png" group-title="数字频道",影综金曲
-http://ott.mobaibox.com/PLTV/3/224/3221228641/index.m3u8
-#EXTINF:-1 tvg-name="健康生活" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/健康生活.png" group-title="数字频道",健康生活
-http://ott.mobaibox.com/PLTV/3/224/3221228706/index.m3u8
-#EXTINF:-1 tvg-name="高分电影" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/电影.png" group-title="数字频道",高分电影
-http://ott.mobaibox.com/PLTV/3/224/3221228644/index.m3u8
-#EXTINF:-1 tvg-name="第一院线" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/第一院线.png" group-title="数字频道",第一院线
-http://ott.mobaibox.com/PLTV/3/224/3221228740/index.m3u8
 #EXTINF:-1 tvg-name="黑莓电影" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/黑莓电影.png" group-title="数字频道",黑莓电影
-http://ott.mobaibox.com/PLTV/3/224/3221225567/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221227520/index.m3u8
+http://itv.uat.news/TVOD/1000000004000019624/ystenlive/index.m3u8
+http://itv.uat.news/TVOD/8785669936177902664/ystenlive/index.m3u8
+http://itv.uat.news/TVOD/2000000003000000001/hnbblive/index.m3u8
 #EXTINF:-1 tvg-name="黑莓动画" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/黑莓动画.png" group-title="数字频道",黑莓动画
-http://ott.mobaibox.com/PLTV/3/224/3221225555/index.m3u8
-#EXTINF:-1 tvg-name="动物世界" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/动物世界.png" group-title="数字频道",动物世界
-http://ott.mobaibox.com/PLTV/3/224/3221228559/index.m3u8
-#EXTINF:-1 tvg-name="动漫星空" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/动漫星空.png" group-title="数字频道",动漫星空
-http://ott.mobaibox.com/PLTV/3/224/3221228579/index.m3u8
-#EXTINF:-1 tvg-name="儿童天地" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/儿童天地.png" group-title="数字频道",儿童天地
-http://ott.mobaibox.com/PLTV/3/224/3221228603/index.m3u8
-#EXTINF:-1 tvg-name="亲宝玩具" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/亲宝玩具.png" group-title="数字频道",亲宝玩具
-http://ott.mobaibox.com/PLTV/3/224/3221228638/index.m3u8
-#EXTINF:-1 tvg-name="自然地理" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/自然地理.png" group-title="数字频道",自然地理
-http://ott.mobaibox.com/PLTV/3/224/3221228723/index.m3u8
-#EXTINF:-1 tvg-name="怀旧MTV" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/怀旧MTV.png" group-title="数字频道",怀旧MTV
-http://ott.mobaibox.com/PLTV/3/224/3221228815/index.m3u8
+http://itv.uat.news/TVOD/2000000003000000002/hnbblive/index.m3u8
+http://itv.uat.news/TVOD/6497762188035533951/ystenlive/index.m3u8
+http://itv.uat.news/TVOD/1000000004000021734/ystenlive/index.m3u8
 #EXTINF:-1 tvg-name="力量影院" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/1905.png" group-title="数字频道",力量影院
 http://php.jdshipin.com:8880/1905.php?id=1905dy
 #EXTINF:-1 tvg-name="环球经典" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/1905.png" group-title="数字频道",环球经典
@@ -914,11 +652,11 @@ http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
 #港澳频道
 #EXTINF:-1 tvg-name="凤凰卫视香港台" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/凤凰卫视香港台.png" group-title="港澳频道",凤凰卫视香港台
-http://ott.mobaibox.com/PLTV/3/224/3221228530/index.m3u8
+http://php.jdshipin.com/TVOD/iptv.php?id=fhhk2
 #EXTINF:-1 tvg-name="凤凰卫视中文台" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/凤凰卫视中文台.png" group-title="港澳频道",凤凰卫视中文台
-http://ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
+http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 #EXTINF:-1 tvg-name="凤凰卫视资讯台" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/凤凰卫视资讯台.png" group-title="港澳频道",凤凰卫视资讯台
-http://ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
+http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 #EXTINF:-1 tvg-name="明珠台" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/TVB明珠台.png" group-title="港澳频道",TVB明珠台
 http://php.jdshipin.com/TVOD/iptv.php?id=mzt2
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/TVB翡翠台.png" group-title="港澳频道",TVB翡翠台

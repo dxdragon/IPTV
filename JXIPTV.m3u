@@ -88,6 +88,10 @@ http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226345/2/index.
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226270/2/index.m3u8?fmt=ts2hls
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225907/2/index.m3u8?fmt=ts2hls
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225908/2/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/CCTV4K.png" group-title="央视频道",CCTV-4K 超高清
+http://223.105.252.59/PLTV/4/224/3221228228/index.m3u8
+#EXTINF:-1 tvg-name="CCTV8K" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/CCTV8K.png" group-title="央视频道",CCTV-8K 超高清
+http://223.105.252.40/PLTV/3/224/3221228165/index.m3u8
 #EXTINF:-1 tvg-name="第一剧场" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/CCTV第一剧场.png" group-title="央视频道",CCTV-第一剧场
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226284/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="怀旧剧场" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/CCTV怀旧剧场.png" group-title="央视频道",CCTV-怀旧剧场
@@ -112,22 +116,22 @@ http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226296/2/index.
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226321/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="电视指南" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/CCTV电视指南.png" group-title="央视频道",CCTV-电视指南
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226359/2/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="CETV1" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/CETV1.png" group-title="央视频道",CETV-1
+#EXTINF:-1 tvg-name="CETV1" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/CETV1.png" group-title="央视频道",CETV-1 综合教育频道
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225917/2/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="CETV4" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/CETV4.png" group-title="央视频道",CETV-4
+#EXTINF:-1 tvg-name="CETV4" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/CETV4.png" group-title="央视频道",CETV-4 职业教育频道
 http://itv.uat.news/TVOD/5000000011000031126/bestzb/index.m3u8
-#EXTINF:-1 tvg-name="CGTN" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/CGTN.png" group-title="央视频道",CGTN
+#EXTINF:-1 tvg-name="CGTN" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/CGTN.png" group-title="央视频道",CGTN-新闻
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226369/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="CGTN纪录" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/CGTN纪录.png" group-title="央视频道",CGTN-纪录
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226341/2/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="CGTN俄语" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/CGTN俄语.png" group-title="央视频道",CGTN-俄语
-http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226367/2/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="CGTN法语" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/CGTN法语.png" group-title="央视频道",CGTN-法语
-http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226344/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="CGTN西班牙语" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/CGTN西班牙语.png" group-title="央视频道",CGTN-西班牙语
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226372/2/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="CGTN法语" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/CGTN法语.png" group-title="央视频道",CGTN-法语
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226344/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="CGTN阿拉伯语" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/CGTN阿拉伯语.png" group-title="央视频道",CGTN-阿拉伯语
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226364/2/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="CGTN俄语" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/CGTN俄语.png" group-title="央视频道",CGTN-俄语
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226367/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="新华社" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/新华社.png" group-title="央视频道",新华社
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226297/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="新华全球连线" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/新华全球连线.png" group-title="央视频道",新华全球连线
@@ -365,6 +369,12 @@ http://php.jdshipin.com/TVOD/hljyd.php?id=3221226242
 http://php.jdshipin.com/TVOD/hljyd.php?id=3221226304
 #EXTINF:-1 tvg-name="哈尔滨新闻综合" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/哈尔滨新闻综合.png" group-title="黑龙江地方",哈尔滨新闻综合
 http://php.jdshipin.com/TVOD/hljyd.php?id=3221226434
+
+#陕西地方
+#EXTINF:-1 tvg-name="安康综合" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/安康综合.png" group-title="陕西地方",安康综合
+http://39.134.18.196/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226385/index.m3u8
+#EXTINF:-1 tvg-name="宝鸡公共频道" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/宝鸡公共频道.png" group-title="陕西地方",宝鸡公共频道
+http://39.134.18.196/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226384/index.m3u8
 
 #NewTV
 #EXTINF:-1 tvg-name="newtv炫舞未来" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/NewTV炫舞未来.png" group-title="NewTV",炫舞未来

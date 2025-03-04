@@ -7,9 +7,9 @@ logo: https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/{TV
 
 m3u: https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/JSIPTV.m3u 江苏移动推荐
 
-     https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/JXIPTV.m3u 江西移动推荐
+https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/JXIPTV.m3u 江西移动推荐
 
-     https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/BYWIPTV.m3u 通用源，百视通、易视腾、华数等
+https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/BYWIPTV.m3u 通用源，百视通、易视腾、华数等
 
 2.播放器*
 

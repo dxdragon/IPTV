@@ -115,9 +115,9 @@ http://itv.uat.news/TVOD/1000000006000268004/ystenlive/index.m3u8
 http://itv.uat.news/TVOD/1000000005000265015/ystenlive/index.m3u8
 http://itv.uat.news/TVOD/1000000005000056836/ystenlive/index.m3u8
 http://itv.uat.news/TVOD/2000000003000000038/hnbblive/index.m3u8
-#EXTINF:-1 tvg-name="CETV1" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/CETV1.png" group-title="央视频道",CETV-1 综合教育频道
+#EXTINF:-1 tvg-name="CETV1" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/CETV1.png" group-title="央视频道",CETV-1 综合教育
 http://itv.uat.news/TVOD/5000000002000002652/bestzb/index.m3u8
-#EXTINF:-1 tvg-name="CETV4" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/CETV4.png" group-title="央视频道",CETV-4 职业教育频道
+#EXTINF:-1 tvg-name="CETV4" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/CETV4.png" group-title="央视频道",CETV-4 职业教育
 http://itv.uat.news/TVOD/5000000011000031126/bestzb/index.m3u8
 #EXTINF:-1 tvg-name="CGTN" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/CGTN.png" group-title="央视频道",CGTN-新闻
 http://itv.uat.news/TVOD/7745129417417101820/hnbblive/index.m3u8
